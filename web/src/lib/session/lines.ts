@@ -1,5 +1,7 @@
 import type { DisplayRecord } from "@/lib/data/types";
 import { matchQuery } from "@/lib/matching/match";
+import { medicineNamesFromPrintedText } from "@/lib/ocr/candidates";
+import { catalogNamesInText } from "@/lib/ocr/printed";
 import type { RxLine } from "@/lib/session/reducer";
 
 let sequence = 0;
@@ -26,6 +28,13 @@ export function buildLine(query: string, records: DisplayRecord[], key = newLine
 }
 
 export function linesFromOcr(text: string, candidates: string[], records: DisplayRecord[]): RxLine[] {
-  const names = candidates.length > 0 ? candidates : text.split(/\r?\n/).map((line) => line.trim()).filter(Boolean);
-  return names.map((name) => buildLine(name, records));
+  const source = [text, ...candidates].join("\n");
+  const printed = medicineNamesFromPrintedText(source);
+  const listed = printed.length > 0 ? [] : catalogNamesInText(source, records);
+  const names: string[] = [];
+  for (const name of [...printed, ...listed]) {
+    if (names.some((kept) => kept.toLowerCase() === name.toLowerCase())) continue;
+    names.push(name);
+  }
+  return names.slice(0, 12).map((name) => buildLine(name, records));
 }

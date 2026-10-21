@@ -1,18 +1,25 @@
 import { GemmaBackendProvider } from "@/lib/ocr/gemma";
+import { LocalOcrProvider } from "@/lib/ocr/local";
 import { MockOcrProvider } from "@/lib/ocr/mock";
 import type { OcrProvider } from "@/lib/ocr/types";
 
-export function defaultOcrKind(): "mock" | "gemma" {
-  return process.env.NEXT_PUBLIC_OCR_PROVIDER === "gemma" ? "gemma" : "mock";
+export type OcrKind = "local" | "mock" | "gemma";
+
+export function defaultOcrKind(): OcrKind {
+  const value = process.env.NEXT_PUBLIC_OCR_PROVIDER;
+  if (value === "gemma" || value === "mock" || value === "local") return value;
+  return "local";
 }
 
-export function createOcrProvider(kind: "mock" | "gemma" = defaultOcrKind(), timeoutMs?: number): OcrProvider {
-  return kind === "gemma" ? new GemmaBackendProvider("/v1/ocr", timeoutMs) : new MockOcrProvider();
+export function createOcrProvider(kind: OcrKind = defaultOcrKind(), timeoutMs?: number): OcrProvider {
+  if (kind === "gemma") return new GemmaBackendProvider("/v1/ocr", timeoutMs);
+  if (kind === "mock") return new MockOcrProvider();
+  return new LocalOcrProvider();
 }
 
-/** Test hook: `?ocr=gemma` or `?ocr=mock` on /scan. Not a place for prescription text. */
-export function ocrKindFromLocation(search: string, fallback: "mock" | "gemma" = defaultOcrKind()): "mock" | "gemma" {
+/** Test hook: `?ocr=gemma`, `?ocr=mock`, or `?ocr=local` on /scan. Not a place for prescription text. */
+export function ocrKindFromLocation(search: string, fallback: OcrKind = defaultOcrKind()): OcrKind {
   const value = new URLSearchParams(search).get("ocr");
-  if (value === "gemma" || value === "mock") return value;
+  if (value === "gemma" || value === "mock" || value === "local") return value;
   return fallback;
 }

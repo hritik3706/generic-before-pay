@@ -2,9 +2,10 @@
 
 import { useState } from "react";
 import { useI18n } from "@/lib/i18n/context";
-import { BUNDLED_KENDRAS, BUNDLED_PINS, lookupPin, mapsSearchUrl, nearestKendras, type KendraHit } from "@/lib/kendra/nearest";
+import { mapsSearchUrl, type KendraHit } from "@/lib/kendra/nearest";
 
-type Phase = "idle" | "empty" | "denied" | "unavailable" | "pin";
+type Phase = "idle" | "empty" | "denied" | "unavailable" | "directory" | "pin";
+type DirectoryBody = { status?: string; hits?: KendraHit[] };
 
 export function KendrasView() {
   const { t } = useI18n();
@@ -12,6 +13,7 @@ export function KendrasView() {
   const [pin, setPin] = useState("");
   const [pinMessage, setPinMessage] = useState<"kendras.pinError" | "kendras.noPin" | null>(null);
   const [hits, setHits] = useState<KendraHit[]>([]);
+  const [busy, setBusy] = useState(false);
   const h1 = t("kendras.h1");
   const lede = t("kendras.lede");
   const locate = t("action.useLocation");
@@ -24,11 +26,38 @@ export function KendrasView() {
   const noDate = t("kendras.noDate");
   const phone = t("kendras.phone");
   const maps = t("action.maps");
+  const loading = t("kendras.loading");
+  const directory = t("kendras.directory");
 
-  function showNearest(lat: number, lng: number) {
-    const next = nearestKendras({ lat, lng }, BUNDLED_KENDRAS, 3);
-    setHits(next);
-    setPhase(next.length === 0 ? "empty" : "idle");
+  async function loadNearest(query: { lat?: number; lng?: number; pin?: string }) {
+    setBusy(true);
+    setPinMessage(null);
+    setHits([]);
+    try {
+      const params = new URLSearchParams();
+      if (query.pin) params.set("pin", query.pin);
+      if (query.lat !== undefined) params.set("lat", String(query.lat));
+      if (query.lng !== undefined) params.set("lng", String(query.lng));
+      const response = await fetch(`/api/kendras/nearest?${params.toString()}`);
+      if (!response.ok) throw new Error("directory");
+      const body = (await response.json()) as DirectoryBody;
+      const next = Array.isArray(body.hits) ? body.hits : [];
+      if (body.status === "ok" && next.length > 0) {
+        setHits(next);
+        setPhase("idle");
+        return;
+      }
+      if (body.status === "empty") {
+        setPhase(query.pin ? "pin" : "empty");
+        if (query.pin) setPinMessage("kendras.noPin");
+        return;
+      }
+      setPhase("directory");
+    } catch {
+      setPhase("directory");
+    } finally {
+      setBusy(false);
+    }
   }
 
   return (
@@ -42,6 +71,7 @@ export function KendrasView() {
           type="button"
           className="btn btn-primary"
           lang={locate.locale}
+          disabled={busy}
           onClick={() => {
             if (!navigator.geolocation) {
               setPhase("unavailable");
@@ -49,47 +79,42 @@ export function KendrasView() {
             }
             navigator.geolocation.getCurrentPosition(
               (position) => {
-                showNearest(position.coords.latitude, position.coords.longitude);
+                void loadNearest({ lat: position.coords.latitude, lng: position.coords.longitude });
               },
               (error) => {
                 setHits([]);
                 setPhase(error.code === error.PERMISSION_DENIED ? "denied" : "unavailable");
               },
-              { enableHighAccuracy: false, maximumAge: 0, timeout: 8000 },
+              { enableHighAccuracy: false, maximumAge: 60_000, timeout: 12_000 },
             );
           }}
         >
           {locate.text}
         </button>
       </div>
+      {busy ? <p lang={loading.locale}>{loading.text}</p> : null}
       {phase === "empty" ? <p lang={empty.locale}>{empty.text}</p> : null}
       {phase === "denied" ? <p role="alert" lang={denied.locale}>{denied.text}</p> : null}
       {phase === "unavailable" ? <p role="alert" lang={unavailable.locale}>{unavailable.text}</p> : null}
+      {phase === "directory" ? <p role="alert" lang={directory.locale}>{directory.text}</p> : null}
       <form
         className="stack"
         onSubmit={(event) => {
           event.preventDefault();
-          const found = lookupPin(pin, BUNDLED_PINS);
-          if (found === "invalid") {
+          if (!/^\d{6}$/.test(pin.trim())) {
             setPinMessage("kendras.pinError");
             setHits([]);
-            return;
-          }
-          if (found === "missing") {
-            setHits([]);
-            setPinMessage("kendras.noPin");
             setPhase("pin");
             return;
           }
-          setPinMessage(null);
-          showNearest(found.lat, found.lng);
+          void loadNearest({ pin: pin.trim() });
         }}
       >
         <label className="field" lang={pinLabel.locale}>
           {pinLabel.text}
           <input inputMode="numeric" autoComplete="off" value={pin} onChange={(event) => setPin(event.target.value)} />
         </label>
-        <button type="submit" className="btn btn-secondary" lang={look.locale}>
+        <button type="submit" className="btn btn-secondary" lang={look.locale} disabled={busy}>
           {look.text}
         </button>
       </form>
@@ -100,7 +125,7 @@ export function KendrasView() {
           {hits.map((hit) => (
             <li key={hit.id} className="medicine-row">
               <h2>{hit.name}</h2>
-              <p>{hit.distanceKm.toFixed(1)} km</p>
+              {typeof hit.distanceKm === "number" ? <p>{hit.distanceKm.toFixed(1)} km</p> : null}
               <p>{hit.address}</p>
               {hit.phone ? (
                 <p>

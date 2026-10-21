@@ -111,16 +111,45 @@ test("ocr network failure and client timeout offer typing", async ({ page }) => 
   await expect(page.locator("[role=alert]").filter({ hasText: "too long" })).toBeVisible({ timeout: 10_000 });
 });
 
-test("kendra permission, pin, and empty list", async ({ page, context }) => {
+test("kendra permission, pin, and directory results", async ({ page, context }) => {
+  await page.route("**/api/kendras/nearest**", (route) => {
+    const url = new URL(route.request().url());
+    const pin = url.searchParams.get("pin");
+    if (pin === "110001" || url.searchParams.has("lat")) {
+      return route.fulfill({
+        json: {
+          status: "ok",
+          hits: [
+            {
+              id: "PMBJK00455",
+              name: "Jan Aushadhi Kendra PMBJK00455",
+              address: "Garage No. 29, Shastri Bhawan, Central, Delhi, 110001",
+              phone: "7011186286",
+              lat: 28.6164875,
+              lng: 77.2166719,
+              updated: null,
+              distanceKm: 0.4,
+            },
+          ],
+        },
+      });
+    }
+    return route.fulfill({ json: { status: "empty", hits: [] } });
+  });
+
   await page.goto("/kendras");
+  await page.getByLabel("PIN code").fill("000000");
+  await page.getByRole("button", { name: "Look up PIN" }).click();
+  await expect(page.getByText("No Kendra was returned for this PIN.")).toBeVisible();
+
   await page.getByLabel("PIN code").fill("110001");
   await page.getByRole("button", { name: "Look up PIN" }).click();
-  await expect(page.getByText("PIN lookup data is not in this app.")).toBeVisible();
+  await expect(page.getByRole("heading", { name: "Jan Aushadhi Kendra PMBJK00455" })).toBeVisible();
 
   await context.grantPermissions(["geolocation"]);
   await context.setGeolocation({ latitude: 28.61, longitude: 77.2 });
   await page.getByRole("button", { name: "Use this device's location" }).click();
-  await expect(page.getByText("No Jan Aushadhi Kendra list is included")).toBeVisible();
+  await expect(page.getByText("0.4 km")).toBeVisible();
 });
 
 test("print sheet hides controls and keeps the disclaimer", async ({ page }) => {

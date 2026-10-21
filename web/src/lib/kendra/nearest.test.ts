@@ -14,7 +14,7 @@ describe("kendra distance", () => {
     const hits = nearestKendras(origin, ROWS, 3);
     expect(hits).toHaveLength(3);
     expect(hits.map((hit) => hit.id)).not.toContain("d");
-    expect(hits[0]!.distanceKm).toBeLessThan(hits[1]!.distanceKm);
+    expect(hits[0]!.distanceKm ?? 0).toBeLessThan(hits[1]!.distanceKm ?? 0);
     expect(haversineKm(origin, origin)).toBe(0);
     expect(lookupPin("110001", [])).toBe("missing");
     expect(lookupPin("abc", [])).toBe("invalid");
