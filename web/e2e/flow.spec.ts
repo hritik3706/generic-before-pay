@@ -132,7 +132,7 @@ test("print sheet hides controls and keeps the disclaimer", async ({ page }) => 
   await expect(page.getByText(DISCLAIMER).first()).toBeVisible();
   await page.emulateMedia({ media: "print" });
   await expect(page.getByRole("button", { name: "Print this sheet" })).toBeHidden();
-  await expect(page.locator(".print-sheet").getByText("Demo data")).toBeVisible();
+  await expect(page.locator(".print-sheet").getByText("Demo data")).toHaveCount(0);
   const pdf = await page.pdf({ printBackground: true });
   expect(pdf.byteLength).toBeGreaterThan(500);
 });

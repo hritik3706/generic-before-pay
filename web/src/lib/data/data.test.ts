@@ -14,11 +14,11 @@ const source: unknown = JSON.parse(readFileSync(sourcePath, "utf8"));
 
 describe("curated drug data", () => {
   it("validates the repo seed and matches the Python content hash", () => {
-    const built = buildCatalogFile(source);
+    const built = buildCatalogFile(source, "production");
     expect(built.ok).toBe(true);
     if (!built.ok) return;
     expect(built.file.records).toHaveLength(106);
-    expect(built.file.provenance).toBe("fixture");
+    expect(built.file.provenance).toBe("production");
     expect(built.file.priceDate).toBeNull();
     expect(built.file.disclaimer).toBe(DISCLAIMER);
     expect(built.file.contentSha256).toBe("f421488089a72bc3bfa21e953929a37529c72fec89a7a68dff237ce7e6884b85");

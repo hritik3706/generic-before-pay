@@ -3,7 +3,7 @@ import { MockOcrProvider } from "@/lib/ocr/mock";
 import type { OcrProvider } from "@/lib/ocr/types";
 
 export function defaultOcrKind(): "mock" | "gemma" {
-  return process.env.NEXT_PUBLIC_OCR_PROVIDER === "gemma" ? "gemma" : "mock";
+  return process.env.NEXT_PUBLIC_OCR_PROVIDER === "mock" ? "mock" : "gemma";
 }
 
 export function createOcrProvider(kind: "mock" | "gemma" = defaultOcrKind(), timeoutMs?: number): OcrProvider {
