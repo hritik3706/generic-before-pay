@@ -77,10 +77,14 @@ export function ScanView({ provider }: { provider?: OcrProvider }) {
       if (mine !== generation.current || controller.signal.aborted) return;
       const catalog = loadBundledCatalog();
       const records = catalog.ok ? catalog.records : [];
-      for (const line of linesFromOcr(result.text, result.candidates, records)) {
+      const lines = linesFromOcr(result.text, result.candidates, records);
+      for (const line of lines) {
         dispatch({ type: "addLine", line });
       }
-      dispatch({ type: "setOcr", ocr: { text: result.text, mock: result.mock, provider: result.provider } });
+      dispatch({
+        type: "setOcr",
+        ocr: { text: lines.map((line) => line.query).join("\n"), mock: result.mock, provider: result.provider },
+      });
       router.push("/review");
     } catch (error) {
       if (mine !== generation.current) return;
