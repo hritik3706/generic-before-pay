@@ -115,12 +115,12 @@ test("kendra permission, pin, and empty list", async ({ page, context }) => {
   await page.goto("/kendras");
   await page.getByLabel("PIN code").fill("110001");
   await page.getByRole("button", { name: "Look up PIN" }).click();
-  await expect(page.getByText("PIN lookup data is not in this app.")).toBeVisible();
+  await expect(page.getByText("Shastri Bhawan")).toBeVisible();
 
   await context.grantPermissions(["geolocation"]);
   await context.setGeolocation({ latitude: 28.61, longitude: 77.2 });
   await page.getByRole("button", { name: "Use this device's location" }).click();
-  await expect(page.getByText("No Jan Aushadhi Kendra list is included")).toBeVisible();
+  await expect(page.getByText("This list has no map coordinates")).toBeVisible();
 });
 
 test("print sheet hides controls and keeps the disclaimer", async ({ page }) => {
