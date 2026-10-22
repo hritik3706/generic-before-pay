@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import { useI18n } from "@/lib/i18n/context";
 
-type SpeechResult = { results: ArrayLike<ArrayLike<{ transcript: string }>> };
+type SpeechResult = { results: ArrayLike<ArrayLike<{ transcript: string }> & { isFinal?: boolean }> };
 type SpeechRec = {
   lang: string;
   onresult: ((event: SpeechResult) => void) | null;
@@ -48,7 +48,9 @@ export function VoiceButton({ onText }: { onText: (text: string) => void }) {
           if (!engine) return;
           engine.lang = lang === "hi" ? "hi-IN" : "en-IN";
           engine.onresult = (event) => {
-            const text = event.results[0]?.[0]?.transcript ?? "";
+            const last = event.results[event.results.length - 1];
+            if (!last || last.isFinal === false) return;
+            const text = last[0]?.transcript ?? "";
             if (text.trim()) onText(text.trim());
           };
           engine.onerror = () => setListening(false);

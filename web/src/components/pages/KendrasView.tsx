@@ -2,7 +2,8 @@
 
 import { useState } from "react";
 import { useI18n } from "@/lib/i18n/context";
-import { mapsSearchUrl, type KendraHit } from "@/lib/kendra/nearest";
+import { kendrasForPin, type ListedKendra } from "@/lib/kendra/pin";
+import { BUNDLED_KENDRAS, mapsSearchUrl, nearestKendras, type KendraHit } from "@/lib/kendra/nearest";
 
 type Phase = "idle" | "empty" | "denied" | "unavailable" | "directory" | "pin";
 type DirectoryBody = { status?: string; hits?: KendraHit[] };
@@ -13,7 +14,7 @@ export function KendrasView() {
   const [pin, setPin] = useState("");
   const [pinMessage, setPinMessage] = useState<"kendras.pinError" | "kendras.noPin" | null>(null);
   const [hits, setHits] = useState<KendraHit[]>([]);
-  const [busy, setBusy] = useState(false);
+  const [listed, setListed] = useState<ListedKendra[]>([]);
   const h1 = t("kendras.h1");
   const lede = t("kendras.lede");
   const locate = t("action.useLocation");
@@ -29,35 +30,11 @@ export function KendrasView() {
   const loading = t("kendras.loading");
   const directory = t("kendras.directory");
 
-  async function loadNearest(query: { lat?: number; lng?: number; pin?: string }) {
-    setBusy(true);
-    setPinMessage(null);
-    setHits([]);
-    try {
-      const params = new URLSearchParams();
-      if (query.pin) params.set("pin", query.pin);
-      if (query.lat !== undefined) params.set("lat", String(query.lat));
-      if (query.lng !== undefined) params.set("lng", String(query.lng));
-      const response = await fetch(`/api/kendras/nearest?${params.toString()}`);
-      if (!response.ok) throw new Error("directory");
-      const body = (await response.json()) as DirectoryBody;
-      const next = Array.isArray(body.hits) ? body.hits : [];
-      if (body.status === "ok" && next.length > 0) {
-        setHits(next);
-        setPhase("idle");
-        return;
-      }
-      if (body.status === "empty") {
-        setPhase(query.pin ? "pin" : "empty");
-        if (query.pin) setPinMessage("kendras.noPin");
-        return;
-      }
-      setPhase("directory");
-    } catch {
-      setPhase("directory");
-    } finally {
-      setBusy(false);
-    }
+  function showNearest(lat: number, lng: number) {
+    const next = nearestKendras({ lat, lng }, BUNDLED_KENDRAS, 3);
+    setListed([]);
+    setHits(next);
+    setPhase(next.length === 0 ? "empty" : "idle");
   }
 
   return (
@@ -83,6 +60,7 @@ export function KendrasView() {
               },
               (error) => {
                 setHits([]);
+                setListed([]);
                 setPhase(error.code === error.PERMISSION_DENIED ? "denied" : "unavailable");
               },
               { enableHighAccuracy: false, maximumAge: 60_000, timeout: 12_000 },
@@ -101,13 +79,16 @@ export function KendrasView() {
         className="stack"
         onSubmit={(event) => {
           event.preventDefault();
-          if (!/^\d{6}$/.test(pin.trim())) {
+          const found = kendrasForPin(pin);
+          setHits([]);
+          if (found === "invalid") {
+            setListed([]);
             setPinMessage("kendras.pinError");
-            setHits([]);
-            setPhase("pin");
             return;
           }
-          void loadNearest({ pin: pin.trim() });
+          setListed(found);
+          setPinMessage(found.length === 0 ? "kendras.noPin" : null);
+          setPhase("pin");
         }}
       >
         <label className="field" lang={pinLabel.locale}>
@@ -120,6 +101,25 @@ export function KendrasView() {
       </form>
       {pinMessage === "kendras.pinError" ? <p role="alert">{t("kendras.pinError").text}</p> : null}
       {pinMessage === "kendras.noPin" ? <p role="status">{t("kendras.noPin").text}</p> : null}
+      {listed.length > 0 ? (
+        <ol>
+          {listed.map((row) => {
+            const place = `${row.address}, ${row.district}, ${row.state} ${row.pin}`;
+            return (
+              <li key={row.id} className="medicine-row">
+                <h2>{row.name}</h2>
+                <p>{row.id}</p>
+                <p>{place}</p>
+                <p lang={noDate.locale}>{noDate.text}</p>
+                <p lang={call.locale}>{call.text}</p>
+                <a href={mapsSearchUrl(`${row.name}, ${place}`)} rel="noopener noreferrer" target="_blank" lang={maps.locale}>
+                  {maps.text}
+                </a>
+              </li>
+            );
+          })}
+        </ol>
+      ) : null}
       {hits.length > 0 ? (
         <ol>
           {hits.map((hit) => (

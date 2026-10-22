@@ -50,7 +50,7 @@ export function ReviewFlow() {
           <h2 id="ocr-text" lang={raw.locale}>
             {raw.text}
           </h2>
-          {state.ocr.mock ? <DemoBadge /> : null}
+          {state.ocr.mock ? <DemoBadge reading /> : null}
           <p lang="en">{OCR_NOTICE}</p>
           <pre className="raw-text">{state.ocr.text}</pre>
         </section>

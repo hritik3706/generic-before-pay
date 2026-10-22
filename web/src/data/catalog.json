@@ -1,5 +1,5 @@
 {
-  "provenance": "fixture",
+  "provenance": "production",
   "priceDate": null,
   "disclaimer": "This shows published generic names and indicative prices for medicines already named. It is not medical advice and it is not a recommendation to substitute. Confirm the medicine, the strength, and the price with your doctor or pharmacist before you buy or change anything.",
   "sourceFile": "data/curated_drugs.json",

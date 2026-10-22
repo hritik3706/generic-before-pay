@@ -5,24 +5,8 @@ const nextConfig: NextConfig = {
   poweredByHeader: false,
   allowedDevOrigins: ["127.0.0.1"],
   async rewrites() {
-    return [
-      {
-        source: "/v1/:path*",
-        destination: "http://127.0.0.1:8000/v1/:path*",
-      },
-      {
-        source: "/api/:path*",
-        destination: "http://127.0.0.1:8000/api/:path*",
-      },
-      {
-        source: "/healthz",
-        destination: "http://127.0.0.1:8000/healthz",
-      },
-      {
-        source: "/readyz",
-        destination: "http://127.0.0.1:8000/readyz",
-      },
-    ];
+    const target = process.env.OCR_BACKEND_URL ?? "http://127.0.0.1:8000";
+    return [{ source: "/v1/:path*", destination: `${target}/v1/:path*` }];
   },
 };
 

@@ -16,7 +16,7 @@ vi.mock("next/navigation", () => ({
 }));
 
 describe("app shell", () => {
-  it("renders the skip link, demo badge, and the repo disclaimer without the review token", () => {
+  it("renders the skip link and the repo disclaimer without the review token", () => {
     renderApp(
       <AppShell>
         <HomeView />
@@ -26,7 +26,7 @@ describe("app shell", () => {
     expect(screen.getByRole("link", { name: "Skip to content" })).toHaveAttribute("href", "#main");
     expect(screen.getByRole("heading", { level: 1, name: "Listed prices, before you pay" })).toBeInTheDocument();
     expect(screen.getAllByRole("heading", { level: 1 })).toHaveLength(1);
-    expect(screen.getByText("Demo data")).toBeInTheDocument();
+    expect(screen.queryByText("Demo data")).not.toBeInTheDocument();
     expect(screen.getByText(DISCLAIMER)).toBeInTheDocument();
     expect(screen.queryByText(TODO_NEEDS_HUMAN_REVIEW)).not.toBeInTheDocument();
     expect(screen.getByRole("link", { name: "Scan a prescription" })).toBeInTheDocument();
@@ -45,7 +45,7 @@ describe("app shell", () => {
     await waitFor(() => expect(document.documentElement.lang).toBe("hi"));
     expect(screen.getByRole("heading", { level: 1 })).toHaveTextContent("भुगतान से पहले, सूचीबद्ध कीमत");
     expect(screen.getByText(DISCLAIMER)).toHaveAttribute("lang", "en");
-    expect(screen.getByText("डेमो डेटा")).toBeInTheDocument();
+    expect(screen.queryByText("डेमो डेटा")).not.toBeInTheDocument();
   });
 
   it("shows the privacy recovery screen when a gated step has no session", () => {

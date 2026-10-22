@@ -3,12 +3,8 @@ import { LocalOcrProvider } from "@/lib/ocr/local";
 import { MockOcrProvider } from "@/lib/ocr/mock";
 import type { OcrProvider } from "@/lib/ocr/types";
 
-export type OcrKind = "local" | "mock" | "gemma";
-
-export function defaultOcrKind(): OcrKind {
-  const value = process.env.NEXT_PUBLIC_OCR_PROVIDER;
-  if (value === "gemma" || value === "mock" || value === "local") return value;
-  return "local";
+export function defaultOcrKind(): "mock" | "gemma" {
+  return process.env.NEXT_PUBLIC_OCR_PROVIDER === "mock" ? "mock" : "gemma";
 }
 
 export function createOcrProvider(kind: OcrKind = defaultOcrKind(), timeoutMs?: number): OcrProvider {
