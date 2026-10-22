@@ -1,0 +1,2152 @@
+[
+  {
+    "ja_code": "PMBJP-0001",
+    "generic_name": "Paracetamol Tablet IP 500 mg",
+    "composition_id": "paracetamol_500_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 5.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0002",
+    "generic_name": "Paracetamol Tablet IP 650 mg",
+    "composition_id": "paracetamol_650_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 7.5,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0003",
+    "generic_name": "Paracetamol (Fast Release) Tablet IP 500 mg",
+    "composition_id": "paracetamol_fast_release_500_mg_tablets",
+    "pack_size": 20.0,
+    "pack_unit": "tablets",
+    "price_inr": 10.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0004",
+    "generic_name": "Ibuprofen Tablet IP 400 mg",
+    "composition_id": "ibuprofen_400_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 6.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0005",
+    "generic_name": "Ibuprofen + Paracetamol Tablet IP 400 mg + 325 mg",
+    "composition_id": "ibuprofen_paracetamol_400_mg_325_mg_tablets",
+    "pack_size": 20.0,
+    "pack_unit": "tablets",
+    "price_inr": 14.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0006",
+    "generic_name": "Aceclofenac + Paracetamol Tablet IP 100 mg + 325 mg",
+    "composition_id": "aceclofenac_paracetamol_100_mg_325_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 12.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0007",
+    "generic_name": "Aceclofenac + Paracetamol + Serratiopeptidase Tablet IP 100 mg + 325 mg + 15 mg",
+    "composition_id": "aceclofenac_paracetamol_serratiopeptidase_100_mg_325_mg_15_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 24.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0008",
+    "generic_name": "Diclofenac Sodium Tablet IP 50 mg",
+    "composition_id": "diclofenac_sodium_50_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 7.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0009",
+    "generic_name": "Mefenamic Acid + Dicyclomine Tablet IP 250 mg + 10 mg",
+    "composition_id": "mefenamic_acid_dicyclomine_250_mg_10_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 9.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0010",
+    "generic_name": "Tramadol + Paracetamol Tablet IP 37.5 mg + 325 mg",
+    "composition_id": "tramadol_paracetamol_37_5_mg_325_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 32.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0011",
+    "generic_name": "Pantoprazole Tablet IP 40 mg",
+    "composition_id": "pantoprazole_40_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 11.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0012",
+    "generic_name": "Pantoprazole + Domperidone Capsule IP 40 mg + 30 mg",
+    "composition_id": "pantoprazole_domperidone_40_mg_30_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "price_inr": 28.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0013",
+    "generic_name": "Omeprazole Capsule IP 20 mg",
+    "composition_id": "omeprazole_20_mg_capsules",
+    "pack_size": 20.0,
+    "pack_unit": "capsules",
+    "price_inr": 9.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0014",
+    "generic_name": "Omeprazole + Domperidone Capsule IP 20 mg + 10 mg",
+    "composition_id": "omeprazole_domperidone_20_mg_10_mg_capsules",
+    "pack_size": 15.0,
+    "pack_unit": "capsules",
+    "price_inr": 18.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0015",
+    "generic_name": "Rabeprazole Tablet IP 20 mg",
+    "composition_id": "rabeprazole_20_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 14.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0016",
+    "generic_name": "Rabeprazole + Domperidone Capsule IP 20 mg + 30 mg",
+    "composition_id": "rabeprazole_domperidone_20_mg_30_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "price_inr": 26.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0017",
+    "generic_name": "Esomeprazole Tablet IP 40 mg",
+    "composition_id": "esomeprazole_40_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 16.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0018",
+    "generic_name": "Ranitidine Tablet IP 150 mg",
+    "composition_id": "ranitidine_150_mg_tablets",
+    "pack_size": 30.0,
+    "pack_unit": "tablets",
+    "price_inr": 8.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0019",
+    "generic_name": "Ondansetron Tablet IP 4 mg",
+    "composition_id": "ondansetron_4_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 6.5,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0020",
+    "generic_name": "Sucralfate + Oxethazaine Ml IP 1000 mg + 20 mg / 10 ml",
+    "composition_id": "sucralfate_oxethazaine_1000_mg_20_mg_10_ml_ml",
+    "pack_size": 200.0,
+    "pack_unit": "ml",
+    "price_inr": 58.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0021",
+    "generic_name": "Azithromycin Tablet IP 500 mg",
+    "composition_id": "azithromycin_500_mg_tablets",
+    "pack_size": 5.0,
+    "pack_unit": "tablets",
+    "price_inr": 38.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0022",
+    "generic_name": "Azithromycin Tablet IP 250 mg",
+    "composition_id": "azithromycin_250_mg_tablets",
+    "pack_size": 6.0,
+    "pack_unit": "tablets",
+    "price_inr": 22.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0023",
+    "generic_name": "Amoxicillin + Potassium Clavulanate Tablet IP 500 mg + 125 mg",
+    "composition_id": "amoxicillin_potassium_clavulanate_500_mg_125_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 55.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0024",
+    "generic_name": "Amoxicillin Capsule IP 500 mg",
+    "composition_id": "amoxicillin_500_mg_capsules",
+    "pack_size": 15.0,
+    "pack_unit": "capsules",
+    "price_inr": 24.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0025",
+    "generic_name": "Cefixime Tablet IP 200 mg",
+    "composition_id": "cefixime_200_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 32.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0026",
+    "generic_name": "Cefpodoxime Proxetil Tablet IP 200 mg",
+    "composition_id": "cefpodoxime_proxetil_200_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 42.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0027",
+    "generic_name": "Ciprofloxacin Tablet IP 500 mg",
+    "composition_id": "ciprofloxacin_500_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 14.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0028",
+    "generic_name": "Ofloxacin Tablet IP 200 mg",
+    "composition_id": "ofloxacin_200_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 12.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0029",
+    "generic_name": "Ofloxacin + Ornidazole Tablet IP 200 mg + 500 mg",
+    "composition_id": "ofloxacin_ornidazole_200_mg_500_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 28.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0030",
+    "generic_name": "Levofloxacin Tablet IP 500 mg",
+    "composition_id": "levofloxacin_500_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 22.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0031",
+    "generic_name": "Metronidazole Tablet IP 400 mg",
+    "composition_id": "metronidazole_400_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 6.5,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0032",
+    "generic_name": "Doxycycline Capsule IP 100 mg",
+    "composition_id": "doxycycline_100_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "price_inr": 14.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0033",
+    "generic_name": "Fluconazole Tablet IP 150 mg",
+    "composition_id": "fluconazole_150_mg_tablets",
+    "pack_size": 3.0,
+    "pack_unit": "tablets",
+    "price_inr": 11.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0034",
+    "generic_name": "Itraconazole Capsule IP 100 mg",
+    "composition_id": "itraconazole_100_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "price_inr": 38.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0035",
+    "generic_name": "Itraconazole Capsule IP 200 mg",
+    "composition_id": "itraconazole_200_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "price_inr": 62.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0036",
+    "generic_name": "Metformin Hydrochloride Tablet IP 500 mg",
+    "composition_id": "metformin_hydrochloride_500_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 5.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0037",
+    "generic_name": "Metformin Hydrochloride (Sustained Release) Tablet IP 1000 mg",
+    "composition_id": "metformin_hydrochloride_sustained_release_1000_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 12.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0038",
+    "generic_name": "Glimepiride Tablet IP 1 mg",
+    "composition_id": "glimepiride_1_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 9.5,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0039",
+    "generic_name": "Glimepiride Tablet IP 2 mg",
+    "composition_id": "glimepiride_2_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 14.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0040",
+    "generic_name": "Glimepiride + Metformin Tablet IP 1 mg + 500 mg",
+    "composition_id": "glimepiride_metformin_1_mg_500_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 22.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0041",
+    "generic_name": "Glimepiride + Metformin Tablet IP 2 mg + 500 mg",
+    "composition_id": "glimepiride_metformin_2_mg_500_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 26.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0042",
+    "generic_name": "Vildagliptin Tablet IP 50 mg",
+    "composition_id": "vildagliptin_50_mg_tablets",
+    "pack_size": 14.0,
+    "pack_unit": "tablets",
+    "price_inr": 48.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0043",
+    "generic_name": "Vildagliptin + Metformin Tablet IP 50 mg + 500 mg",
+    "composition_id": "vildagliptin_metformin_50_mg_500_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 58.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0044",
+    "generic_name": "Dapagliflozin Tablet IP 10 mg",
+    "composition_id": "dapagliflozin_10_mg_tablets",
+    "pack_size": 14.0,
+    "pack_unit": "tablets",
+    "price_inr": 65.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0045",
+    "generic_name": "Teneligliptin Tablet IP 20 mg",
+    "composition_id": "teneligliptin_20_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 28.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0046",
+    "generic_name": "Voglibose Tablet IP 0.2 mg",
+    "composition_id": "voglibose_0_2_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 12.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0047",
+    "generic_name": "Telmisartan Tablet IP 40 mg",
+    "composition_id": "telmisartan_40_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 12.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0048",
+    "generic_name": "Telmisartan Tablet IP 80 mg",
+    "composition_id": "telmisartan_80_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 22.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0049",
+    "generic_name": "Telmisartan + Amlodipine Tablet IP 40 mg + 5 mg",
+    "composition_id": "telmisartan_amlodipine_40_mg_5_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 24.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0050",
+    "generic_name": "Amlodipine Tablet IP 5 mg",
+    "composition_id": "amlodipine_5_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 5.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0051",
+    "generic_name": "Amlodipine Tablet IP 10 mg",
+    "composition_id": "amlodipine_10_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 8.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0052",
+    "generic_name": "Losartan Potassium Tablet IP 50 mg",
+    "composition_id": "losartan_potassium_50_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 12.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0053",
+    "generic_name": "Metoprolol Tartrate Tablet IP 50 mg",
+    "composition_id": "metoprolol_tartrate_50_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 12.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0054",
+    "generic_name": "Metoprolol Succinate (Extended Release) Tablet IP 25 mg",
+    "composition_id": "metoprolol_succinate_extended_release_25_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 18.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0055",
+    "generic_name": "Atenolol Tablet IP 50 mg",
+    "composition_id": "atenolol_50_mg_tablets",
+    "pack_size": 14.0,
+    "pack_unit": "tablets",
+    "price_inr": 6.5,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0056",
+    "generic_name": "Ramipril Tablet IP 5 mg",
+    "composition_id": "ramipril_5_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 16.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0057",
+    "generic_name": "Enalapril Maleate Tablet IP 5 mg",
+    "composition_id": "enalapril_maleate_5_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 7.5,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0058",
+    "generic_name": "Olmesartan Medoxomil Tablet IP 20 mg",
+    "composition_id": "olmesartan_medoxomil_20_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 18.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0059",
+    "generic_name": "Bisoprolol Fumarate Tablet IP 5 mg",
+    "composition_id": "bisoprolol_fumarate_5_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 15.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0060",
+    "generic_name": "Furosemide Tablet IP 40 mg",
+    "composition_id": "furosemide_40_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 4.5,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0061",
+    "generic_name": "Spironolactone Tablet IP 25 mg",
+    "composition_id": "spironolactone_25_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 8.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0062",
+    "generic_name": "Clopidogrel Tablet IP 75 mg",
+    "composition_id": "clopidogrel_75_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 20.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0063",
+    "generic_name": "Aspirin (Enteric Coated) Tablet IP 75 mg",
+    "composition_id": "aspirin_enteric_coated_75_mg_tablets",
+    "pack_size": 14.0,
+    "pack_unit": "tablets",
+    "price_inr": 2.5,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0064",
+    "generic_name": "Aspirin (Enteric Coated) Tablet IP 150 mg",
+    "composition_id": "aspirin_enteric_coated_150_mg_tablets",
+    "pack_size": 14.0,
+    "pack_unit": "tablets",
+    "price_inr": 3.5,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0065",
+    "generic_name": "Atorvastatin Tablet IP 10 mg",
+    "composition_id": "atorvastatin_10_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 11.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0066",
+    "generic_name": "Atorvastatin Tablet IP 20 mg",
+    "composition_id": "atorvastatin_20_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 19.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0067",
+    "generic_name": "Atorvastatin Tablet IP 40 mg",
+    "composition_id": "atorvastatin_40_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 34.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0068",
+    "generic_name": "Rosuvastatin Tablet IP 10 mg",
+    "composition_id": "rosuvastatin_10_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 18.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0069",
+    "generic_name": "Rosuvastatin Tablet IP 20 mg",
+    "composition_id": "rosuvastatin_20_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 32.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0070",
+    "generic_name": "Fenofibrate (Micronized) Tablet IP 145 mg",
+    "composition_id": "fenofibrate_micronized_145_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 26.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0071",
+    "generic_name": "Cetirizine Hydrochloride Tablet IP 10 mg",
+    "composition_id": "cetirizine_hydrochloride_10_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 4.5,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0072",
+    "generic_name": "Levocetirizine Tablet IP 5 mg",
+    "composition_id": "levocetirizine_5_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 6.5,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0073",
+    "generic_name": "Montelukast + Levocetirizine Tablet IP 10 mg + 5 mg",
+    "composition_id": "montelukast_levocetirizine_10_mg_5_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 24.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0074",
+    "generic_name": "Fexofenadine Hydrochloride Tablet IP 120 mg",
+    "composition_id": "fexofenadine_hydrochloride_120_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 28.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0075",
+    "generic_name": "Fexofenadine Hydrochloride Tablet IP 180 mg",
+    "composition_id": "fexofenadine_hydrochloride_180_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 38.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0076",
+    "generic_name": "Salbutamol Tablet IP 4 mg",
+    "composition_id": "salbutamol_4_mg_tablets",
+    "pack_size": 30.0,
+    "pack_unit": "tablets",
+    "price_inr": 4.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0077",
+    "generic_name": "Budesonide + Formoterol Dose IP 200 mcg + 6 mcg",
+    "composition_id": "budesonide_formoterol_200_mcg_6_mcg_doses",
+    "pack_size": 120.0,
+    "pack_unit": "doses",
+    "price_inr": 115.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0078",
+    "generic_name": "Acebrophylline Capsule IP 100 mg",
+    "composition_id": "acebrophylline_100_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "price_inr": 26.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0079",
+    "generic_name": "Levothyroxine Sodium Tablet IP 25 mcg",
+    "composition_id": "levothyroxine_sodium_25_mcg_tablets",
+    "pack_size": 120.0,
+    "pack_unit": "tablets",
+    "price_inr": 42.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0080",
+    "generic_name": "Levothyroxine Sodium Tablet IP 50 mcg",
+    "composition_id": "levothyroxine_sodium_50_mcg_tablets",
+    "pack_size": 120.0,
+    "pack_unit": "tablets",
+    "price_inr": 48.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0081",
+    "generic_name": "Levothyroxine Sodium Tablet IP 75 mcg",
+    "composition_id": "levothyroxine_sodium_75_mcg_tablets",
+    "pack_size": 120.0,
+    "pack_unit": "tablets",
+    "price_inr": 54.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0082",
+    "generic_name": "Levothyroxine Sodium Tablet IP 100 mcg",
+    "composition_id": "levothyroxine_sodium_100_mcg_tablets",
+    "pack_size": 120.0,
+    "pack_unit": "tablets",
+    "price_inr": 60.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0083",
+    "generic_name": "Calcium Carbonate + Vitamin D3 Tablet IP 500 mg + 250 IU",
+    "composition_id": "calcium_carbonate_vitamin_d3_500_mg_250_iu_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 25.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0084",
+    "generic_name": "Cholecalciferol (Vitamin D3) Capsule IP 60000 IU",
+    "composition_id": "cholecalciferol_vitamin_d3_60000_iu_capsules",
+    "pack_size": 4.0,
+    "pack_unit": "capsules",
+    "price_inr": 28.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0085",
+    "generic_name": "Methylcobalamin (Vitamin B12) Tablet IP 1500 mcg",
+    "composition_id": "methylcobalamin_vitamin_b12_1500_mcg_tablets",
+    "pack_size": 20.0,
+    "pack_unit": "tablets",
+    "price_inr": 32.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0086",
+    "generic_name": "Ferrous Ascorbate + Folic Acid Tablet IP 100 mg + 1.5 mg",
+    "composition_id": "ferrous_ascorbate_folic_acid_100_mg_1_5_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 28.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0087",
+    "generic_name": "Folic Acid Tablet IP 5 mg",
+    "composition_id": "folic_acid_5_mg_tablets",
+    "pack_size": 45.0,
+    "pack_unit": "tablets",
+    "price_inr": 8.5,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0088",
+    "generic_name": "Ascorbic Acid (Vitamin C) + Zinc Chewable IP 500 mg + 5 mg",
+    "composition_id": "ascorbic_acid_vitamin_c_zinc_500_mg_5_mg_chewable",
+    "pack_size": 15.0,
+    "pack_unit": "chewable",
+    "price_inr": 7.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0089",
+    "generic_name": "Alprazolam Tablet IP 0.25 mg",
+    "composition_id": "alprazolam_0_25_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 5.5,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0090",
+    "generic_name": "Alprazolam Tablet IP 0.5 mg",
+    "composition_id": "alprazolam_0_5_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 8.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0091",
+    "generic_name": "Clonazepam Tablet IP 0.5 mg",
+    "composition_id": "clonazepam_0_5_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 9.5,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0092",
+    "generic_name": "Escitalopram Tablet IP 10 mg",
+    "composition_id": "escitalopram_10_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 16.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0093",
+    "generic_name": "Sertraline Tablet IP 50 mg",
+    "composition_id": "sertraline_50_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 22.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0094",
+    "generic_name": "Gabapentin Capsule IP 100 mg",
+    "composition_id": "gabapentin_100_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "price_inr": 22.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0095",
+    "generic_name": "Pregabalin Capsule IP 75 mg",
+    "composition_id": "pregabalin_75_mg_capsules",
+    "pack_size": 15.0,
+    "pack_unit": "capsules",
+    "price_inr": 34.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0096",
+    "generic_name": "Clotrimazole Gm IP 1 % w/w",
+    "composition_id": "clotrimazole_1_w_w_gm",
+    "pack_size": 30.0,
+    "pack_unit": "gm",
+    "price_inr": 18.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0097",
+    "generic_name": "Betamethasone + Neomycin Gm IP 0.1 % + 0.5 % w/w",
+    "composition_id": "betamethasone_neomycin_0_1_0_5_w_w_gm",
+    "pack_size": 20.0,
+    "pack_unit": "gm",
+    "price_inr": 11.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0098",
+    "generic_name": "Mupirocin Gm IP 2 % w/w",
+    "composition_id": "mupirocin_2_w_w_gm",
+    "pack_size": 15.0,
+    "pack_unit": "gm",
+    "price_inr": 32.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0099",
+    "generic_name": "Permethrin Ml IP 5 % w/v",
+    "composition_id": "permethrin_5_w_v_ml",
+    "pack_size": 60.0,
+    "pack_unit": "ml",
+    "price_inr": 24.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0100",
+    "generic_name": "Carboxymethylcellulose Ml IP 0.5 % w/v",
+    "composition_id": "carboxymethylcellulose_0_5_w_v_ml",
+    "pack_size": 10.0,
+    "pack_unit": "ml",
+    "price_inr": 28.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0101",
+    "generic_name": "Ciprofloxacin Ml IP 0.3 % w/v",
+    "composition_id": "ciprofloxacin_0_3_w_v_ml",
+    "pack_size": 10.0,
+    "pack_unit": "ml",
+    "price_inr": 5.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0102",
+    "generic_name": "Moxifloxacin Ml IP 0.5 % w/v",
+    "composition_id": "moxifloxacin_0_5_w_v_ml",
+    "pack_size": 5.0,
+    "pack_unit": "ml",
+    "price_inr": 26.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0103",
+    "generic_name": "Tamsulosin Hydrochloride Capsule IP 0.4 mg",
+    "composition_id": "tamsulosin_hydrochloride_0_4_mg_capsules",
+    "pack_size": 15.0,
+    "pack_unit": "capsules",
+    "price_inr": 42.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0104",
+    "generic_name": "Finasteride Tablet IP 5 mg",
+    "composition_id": "finasteride_5_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 24.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0105",
+    "generic_name": "Allopurinol Tablet IP 100 mg",
+    "composition_id": "allopurinol_100_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 6.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0106",
+    "generic_name": "Hydroxychloroquine Sulfate Tablet IP 200 mg",
+    "composition_id": "hydroxychloroquine_sulfate_200_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 24.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0107",
+    "generic_name": "Etoricoxib Tablet IP 60 mg",
+    "composition_id": "etoricoxib_60_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 18.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0108",
+    "generic_name": "Etoricoxib Tablet IP 90 mg",
+    "composition_id": "etoricoxib_90_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 22.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0109",
+    "generic_name": "Etoricoxib Tablet IP 120 mg",
+    "composition_id": "etoricoxib_120_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 28.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0110",
+    "generic_name": "Naproxen Tablet IP 500 mg",
+    "composition_id": "naproxen_500_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 14.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0111",
+    "generic_name": "Piroxicam Capsule IP 20 mg",
+    "composition_id": "piroxicam_20_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "price_inr": 9.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0112",
+    "generic_name": "Ketorolac Tromethamine Tablet IP 10 mg",
+    "composition_id": "ketorolac_tromethamine_10_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 8.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0113",
+    "generic_name": "Domperidone Tablet IP 10 mg",
+    "composition_id": "domperidone_10_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 6.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0114",
+    "generic_name": "Rabeprazole + Levosulpiride Capsule IP 20 mg + 75 mg",
+    "composition_id": "rabeprazole_levosulpiride_20_mg_75_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "price_inr": 45.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0115",
+    "generic_name": "Pantoprazole + Levosulpiride Capsule IP 40 mg + 75 mg",
+    "composition_id": "pantoprazole_levosulpiride_40_mg_75_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "price_inr": 48.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0116",
+    "generic_name": "Dicyclomine + Paracetamol Tablet IP 20 mg + 325 mg",
+    "composition_id": "dicyclomine_paracetamol_20_mg_325_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 8.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0117",
+    "generic_name": "Drotaverine Hydrochloride Tablet IP 40 mg",
+    "composition_id": "drotaverine_hydrochloride_40_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 14.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0118",
+    "generic_name": "Drotaverine + Mefenamic Acid Tablet IP 80 mg + 250 mg",
+    "composition_id": "drotaverine_mefenamic_acid_80_mg_250_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 24.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0119",
+    "generic_name": "Loperamide Hydrochloride Tablet IP 2 mg",
+    "composition_id": "loperamide_hydrochloride_2_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 4.5,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0120",
+    "generic_name": "Racecadotril Capsule IP 100 mg",
+    "composition_id": "racecadotril_100_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "price_inr": 28.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0121",
+    "generic_name": "Oral Rehydration Salts (WHO Formula) Gm IP 21.8 gm",
+    "composition_id": "oral_rehydration_salts_who_formula_21_8_gm_gm",
+    "pack_size": 21.8,
+    "pack_unit": "gm",
+    "price_inr": 5.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0122",
+    "generic_name": "Lactulose Ml IP 10 gm / 15 ml",
+    "composition_id": "lactulose_10_gm_15_ml_ml",
+    "pack_size": 100.0,
+    "pack_unit": "ml",
+    "price_inr": 42.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0123",
+    "generic_name": "Chlordiazepoxide + Clidinium Bromide Tablet IP 5 mg + 2.5 mg",
+    "composition_id": "chlordiazepoxide_clidinium_bromide_5_mg_2_5_mg_tablets",
+    "pack_size": 20.0,
+    "pack_unit": "tablets",
+    "price_inr": 24.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0124",
+    "generic_name": "Cefuroxime Axetil Tablet IP 500 mg",
+    "composition_id": "cefuroxime_axetil_500_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 85.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0125",
+    "generic_name": "Cefuroxime Axetil Tablet IP 250 mg",
+    "composition_id": "cefuroxime_axetil_250_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 48.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0126",
+    "generic_name": "Cefixime + Ofloxacin Tablet IP 200 mg + 200 mg",
+    "composition_id": "cefixime_ofloxacin_200_mg_200_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 45.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0127",
+    "generic_name": "Clindamycin Hydrochloride Capsule IP 300 mg",
+    "composition_id": "clindamycin_hydrochloride_300_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "price_inr": 55.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0128",
+    "generic_name": "Linezolid Tablet IP 600 mg",
+    "composition_id": "linezolid_600_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 68.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0129",
+    "generic_name": "Nitrofurantoin Tablet IP 100 mg",
+    "composition_id": "nitrofurantoin_100_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 28.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0130",
+    "generic_name": "Faropenem Sodium Tablet IP 200 mg",
+    "composition_id": "faropenem_sodium_200_mg_tablets",
+    "pack_size": 6.0,
+    "pack_unit": "tablets",
+    "price_inr": 120.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0131",
+    "generic_name": "Terbinafine Hydrochloride Tablet IP 250 mg",
+    "composition_id": "terbinafine_hydrochloride_250_mg_tablets",
+    "pack_size": 7.0,
+    "pack_unit": "tablets",
+    "price_inr": 38.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0132",
+    "generic_name": "Terbinafine Hydrochloride Tablet IP 500 mg",
+    "composition_id": "terbinafine_hydrochloride_500_mg_tablets",
+    "pack_size": 7.0,
+    "pack_unit": "tablets",
+    "price_inr": 65.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0133",
+    "generic_name": "Acyclovir Tablet IP 400 mg",
+    "composition_id": "acyclovir_400_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 22.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0134",
+    "generic_name": "Oseltamivir Phosphate Capsule IP 75 mg",
+    "composition_id": "oseltamivir_phosphate_75_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "price_inr": 110.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0135",
+    "generic_name": "Telmisartan + Chlorthalidone Tablet IP 40 mg + 12.5 mg",
+    "composition_id": "telmisartan_chlorthalidone_40_mg_12_5_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 24.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0136",
+    "generic_name": "Telmisartan + Hydrochlorothiazide Tablet IP 40 mg + 12.5 mg",
+    "composition_id": "telmisartan_hydrochlorothiazide_40_mg_12_5_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 22.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0137",
+    "generic_name": "Losartan Potassium + Hydrochlorothiazide Tablet IP 50 mg + 12.5 mg",
+    "composition_id": "losartan_potassium_hydrochlorothiazide_50_mg_12_5_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 20.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0138",
+    "generic_name": "Cilnidipine Tablet IP 10 mg",
+    "composition_id": "cilnidipine_10_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 18.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0139",
+    "generic_name": "Cilnidipine Tablet IP 20 mg",
+    "composition_id": "cilnidipine_20_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 28.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0140",
+    "generic_name": "Nebivolol Tablet IP 5 mg",
+    "composition_id": "nebivolol_5_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 22.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0141",
+    "generic_name": "Metoprolol Succinate (Extended Release) Tablet IP 50 mg",
+    "composition_id": "metoprolol_succinate_extended_release_50_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 26.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0142",
+    "generic_name": "Ramipril Tablet IP 2.5 mg",
+    "composition_id": "ramipril_2_5_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 11.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0143",
+    "generic_name": "Bisoprolol Fumarate Tablet IP 2.5 mg",
+    "composition_id": "bisoprolol_fumarate_2_5_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 10.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0144",
+    "generic_name": "Olmesartan Medoxomil Tablet IP 40 mg",
+    "composition_id": "olmesartan_medoxomil_40_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 28.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0145",
+    "generic_name": "Diltiazem Hydrochloride Tablet IP 30 mg",
+    "composition_id": "diltiazem_hydrochloride_30_mg_tablets",
+    "pack_size": 30.0,
+    "pack_unit": "tablets",
+    "price_inr": 9.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0146",
+    "generic_name": "Diltiazem Hydrochloride Tablet IP 60 mg",
+    "composition_id": "diltiazem_hydrochloride_60_mg_tablets",
+    "pack_size": 30.0,
+    "pack_unit": "tablets",
+    "price_inr": 14.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0147",
+    "generic_name": "Verapamil Hydrochloride Tablet IP 40 mg",
+    "composition_id": "verapamil_hydrochloride_40_mg_tablets",
+    "pack_size": 20.0,
+    "pack_unit": "tablets",
+    "price_inr": 7.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0148",
+    "generic_name": "Digoxin Tablet IP 0.25 mg",
+    "composition_id": "digoxin_0_25_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 4.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0149",
+    "generic_name": "Isosorbide Mononitrate (Sustained Release) Tablet IP 30 mg",
+    "composition_id": "isosorbide_mononitrate_sustained_release_30_mg_tablets",
+    "pack_size": 30.0,
+    "pack_unit": "tablets",
+    "price_inr": 12.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0150",
+    "generic_name": "Clopidogrel + Aspirin Tablet IP 75 mg + 75 mg",
+    "composition_id": "clopidogrel_aspirin_75_mg_75_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 22.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0151",
+    "generic_name": "Chlorthalidone Tablet IP 12.5 mg",
+    "composition_id": "chlorthalidone_12_5_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 11.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0152",
+    "generic_name": "Torsemide Tablet IP 10 mg",
+    "composition_id": "torsemide_10_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 12.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0153",
+    "generic_name": "Torsemide Tablet IP 20 mg",
+    "composition_id": "torsemide_20_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 18.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0154",
+    "generic_name": "Torsemide + Spironolactone Tablet IP 10 mg + 50 mg",
+    "composition_id": "torsemide_spironolactone_10_mg_50_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 18.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0155",
+    "generic_name": "Metformin Hydrochloride Tablet IP 850 mg",
+    "composition_id": "metformin_hydrochloride_850_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 9.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0156",
+    "generic_name": "Glimepiride Tablet IP 3 mg",
+    "composition_id": "glimepiride_3_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 19.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0157",
+    "generic_name": "Glimepiride Tablet IP 4 mg",
+    "composition_id": "glimepiride_4_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 24.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0158",
+    "generic_name": "Empagliflozin Tablet IP 10 mg",
+    "composition_id": "empagliflozin_10_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 62.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0159",
+    "generic_name": "Empagliflozin Tablet IP 25 mg",
+    "composition_id": "empagliflozin_25_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 85.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0160",
+    "generic_name": "Empagliflozin + Metformin Tablet IP 12.5 mg + 500 mg",
+    "composition_id": "empagliflozin_metformin_12_5_mg_500_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 78.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0161",
+    "generic_name": "Dapagliflozin + Metformin Tablet IP 10 mg + 500 mg",
+    "composition_id": "dapagliflozin_metformin_10_mg_500_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 68.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0162",
+    "generic_name": "Sitagliptin Phosphate Tablet IP 50 mg",
+    "composition_id": "sitagliptin_phosphate_50_mg_tablets",
+    "pack_size": 14.0,
+    "pack_unit": "tablets",
+    "price_inr": 55.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0163",
+    "generic_name": "Sitagliptin Phosphate Tablet IP 100 mg",
+    "composition_id": "sitagliptin_phosphate_100_mg_tablets",
+    "pack_size": 14.0,
+    "pack_unit": "tablets",
+    "price_inr": 82.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0164",
+    "generic_name": "Sitagliptin + Metformin Tablet IP 50 mg + 500 mg",
+    "composition_id": "sitagliptin_metformin_50_mg_500_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 75.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0165",
+    "generic_name": "Teneligliptin + Metformin Tablet IP 20 mg + 500 mg",
+    "composition_id": "teneligliptin_metformin_20_mg_500_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 32.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0166",
+    "generic_name": "Voglibose Tablet IP 0.3 mg",
+    "composition_id": "voglibose_0_3_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 16.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0167",
+    "generic_name": "Glipizide Tablet IP 5 mg",
+    "composition_id": "glipizide_5_mg_tablets",
+    "pack_size": 20.0,
+    "pack_unit": "tablets",
+    "price_inr": 6.5,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0168",
+    "generic_name": "Pioglitazone Hydrochloride Tablet IP 15 mg",
+    "composition_id": "pioglitazone_hydrochloride_15_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 9.5,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0169",
+    "generic_name": "Pioglitazone Hydrochloride Tablet IP 30 mg",
+    "composition_id": "pioglitazone_hydrochloride_30_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 16.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0170",
+    "generic_name": "Rosuvastatin Tablet IP 5 mg",
+    "composition_id": "rosuvastatin_5_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 12.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0171",
+    "generic_name": "Rosuvastatin + Aspirin Capsule IP 10 mg + 75 mg",
+    "composition_id": "rosuvastatin_aspirin_10_mg_75_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "price_inr": 26.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0172",
+    "generic_name": "Atorvastatin + Fenofibrate Tablet IP 10 mg + 145 mg",
+    "composition_id": "atorvastatin_fenofibrate_10_mg_145_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 28.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0173",
+    "generic_name": "Ezetimibe Tablet IP 10 mg",
+    "composition_id": "ezetimibe_10_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 24.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0174",
+    "generic_name": "Bilastine Tablet IP 20 mg",
+    "composition_id": "bilastine_20_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 28.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0175",
+    "generic_name": "Deflazacort Tablet IP 6 mg",
+    "composition_id": "deflazacort_6_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 19.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0176",
+    "generic_name": "Deflazacort Tablet IP 12 mg",
+    "composition_id": "deflazacort_12_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 32.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0177",
+    "generic_name": "Dextromethorphan + Chlorpheniramine Ml IP 10 mg + 2 mg / 5 ml",
+    "composition_id": "dextromethorphan_chlorpheniramine_10_mg_2_mg_5_ml_ml",
+    "pack_size": 100.0,
+    "pack_unit": "ml",
+    "price_inr": 24.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0178",
+    "generic_name": "Ambroxol + Levosalbutamol + Guaifenesin Ml IP 30 mg + 1 mg + 50 mg / 5 ml",
+    "composition_id": "ambroxol_levosalbutamol_guaifenesin_30_mg_1_mg_50_mg_5_ml_ml",
+    "pack_size": 100.0,
+    "pack_unit": "ml",
+    "price_inr": 28.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0179",
+    "generic_name": "Theophylline + Etofylline Tablet IP 115 mg + 35 mg",
+    "composition_id": "theophylline_etofylline_115_mg_35_mg_tablets",
+    "pack_size": 30.0,
+    "pack_unit": "tablets",
+    "price_inr": 6.5,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0180",
+    "generic_name": "Theophylline + Etofylline Tablet IP 231 mg + 69 mg",
+    "composition_id": "theophylline_etofylline_231_mg_69_mg_tablets",
+    "pack_size": 30.0,
+    "pack_unit": "tablets",
+    "price_inr": 9.5,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0181",
+    "generic_name": "Salmeterol + Fluticasone Propionate Dose IP 25 mcg + 250 mcg",
+    "composition_id": "salmeterol_fluticasone_propionate_25_mcg_250_mcg_doses",
+    "pack_size": 120.0,
+    "pack_unit": "doses",
+    "price_inr": 145.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0182",
+    "generic_name": "Salbutamol Dose IP 100 mcg",
+    "composition_id": "salbutamol_100_mcg_doses",
+    "pack_size": 200.0,
+    "pack_unit": "doses",
+    "price_inr": 45.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0183",
+    "generic_name": "Budesonide Respule IP 0.5 mg / 2 ml",
+    "composition_id": "budesonide_0_5_mg_2_ml_respules",
+    "pack_size": 5.0,
+    "pack_unit": "respules",
+    "price_inr": 32.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0184",
+    "generic_name": "Carbimazole Tablet IP 5 mg",
+    "composition_id": "carbimazole_5_mg_tablets",
+    "pack_size": 100.0,
+    "pack_unit": "tablets",
+    "price_inr": 18.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0185",
+    "generic_name": "Medroxyprogesterone Acetate Tablet IP 10 mg",
+    "composition_id": "medroxyprogesterone_acetate_10_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 14.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0186",
+    "generic_name": "Norethisterone Tablet IP 5 mg",
+    "composition_id": "norethisterone_5_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 12.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0187",
+    "generic_name": "Vitamin B-Complex + Vitamin C Capsule IP B-Complex + 150 mg Vitamin C",
+    "composition_id": "vitamin_b_complex_vitamin_c_b_complex_150_mg_vitamin_c_capsules",
+    "pack_size": 20.0,
+    "pack_unit": "capsules",
+    "price_inr": 11.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0188",
+    "generic_name": "Multivitamins + Multiminerals + Zinc Tablet IP Multivitamin + 22.5 mg Zinc",
+    "composition_id": "multivitamins_multiminerals_zinc_multivitamin_22_5_mg_zinc_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 22.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0189",
+    "generic_name": "Tocopheryl Acetate (Vitamin E) Capsule IP 400 mg",
+    "composition_id": "tocopheryl_acetate_vitamin_e_400_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "price_inr": 9.5,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0190",
+    "generic_name": "Amitriptyline Hydrochloride Tablet IP 10 mg",
+    "composition_id": "amitriptyline_hydrochloride_10_mg_tablets",
+    "pack_size": 30.0,
+    "pack_unit": "tablets",
+    "price_inr": 5.5,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0191",
+    "generic_name": "Amitriptyline Hydrochloride Tablet IP 25 mg",
+    "composition_id": "amitriptyline_hydrochloride_25_mg_tablets",
+    "pack_size": 30.0,
+    "pack_unit": "tablets",
+    "price_inr": 8.5,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0192",
+    "generic_name": "Paroxetine (Controlled Release) Tablet IP 12.5 mg",
+    "composition_id": "paroxetine_controlled_release_12_5_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 26.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0193",
+    "generic_name": "Duloxetine Hydrochloride Capsule IP 20 mg",
+    "composition_id": "duloxetine_hydrochloride_20_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "price_inr": 22.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0194",
+    "generic_name": "Sodium Valproate Tablet IP 200 mg",
+    "composition_id": "sodium_valproate_200_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 9.5,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0195",
+    "generic_name": "Sodium Valproate + Valproic Acid Tablet IP 500 mg",
+    "composition_id": "sodium_valproate_valproic_acid_500_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 28.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0196",
+    "generic_name": "Levetiracetam Tablet IP 500 mg",
+    "composition_id": "levetiracetam_500_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 28.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0197",
+    "generic_name": "Phenytoin Sodium Tablet IP 100 mg",
+    "composition_id": "phenytoin_sodium_100_mg_tablets",
+    "pack_size": 120.0,
+    "pack_unit": "tablets",
+    "price_inr": 26.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0198",
+    "generic_name": "Baclofen Tablet IP 10 mg",
+    "composition_id": "baclofen_10_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "price_inr": 18.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0199",
+    "generic_name": "Luliconazole Gm IP 1 % w/w",
+    "composition_id": "luliconazole_1_w_w_gm",
+    "pack_size": 30.0,
+    "pack_unit": "gm",
+    "price_inr": 45.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0200",
+    "generic_name": "Clobetasol Propionate Gm IP 0.05 % w/w",
+    "composition_id": "clobetasol_propionate_0_05_w_w_gm",
+    "pack_size": 30.0,
+    "pack_unit": "gm",
+    "price_inr": 14.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0201",
+    "generic_name": "Fusidic Acid Gm IP 2 % w/w",
+    "composition_id": "fusidic_acid_2_w_w_gm",
+    "pack_size": 15.0,
+    "pack_unit": "gm",
+    "price_inr": 22.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0202",
+    "generic_name": "Ketoconazole Ml IP 2 % w/v",
+    "composition_id": "ketoconazole_2_w_v_ml",
+    "pack_size": 100.0,
+    "pack_unit": "ml",
+    "price_inr": 58.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0203",
+    "generic_name": "Povidone Iodine Ml IP 10 % w/v",
+    "composition_id": "povidone_iodine_10_w_v_ml",
+    "pack_size": 100.0,
+    "pack_unit": "ml",
+    "price_inr": 28.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0204",
+    "generic_name": "Xylometazoline Hydrochloride Ml IP 0.1 % w/v",
+    "composition_id": "xylometazoline_hydrochloride_0_1_w_v_ml",
+    "pack_size": 10.0,
+    "pack_unit": "ml",
+    "price_inr": 14.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0205",
+    "generic_name": "Olopatadine Hydrochloride Ml IP 0.1 % w/v",
+    "composition_id": "olopatadine_hydrochloride_0_1_w_v_ml",
+    "pack_size": 5.0,
+    "pack_unit": "ml",
+    "price_inr": 28.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0206",
+    "generic_name": "Silodosin Capsule IP 8 mg",
+    "composition_id": "silodosin_8_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "price_inr": 55.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0207",
+    "generic_name": "Dutasteride Capsule IP 0.5 mg",
+    "composition_id": "dutasteride_0_5_mg_capsules",
+    "pack_size": 15.0,
+    "pack_unit": "capsules",
+    "price_inr": 32.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0208",
+    "generic_name": "Tadalafil Tablet IP 10 mg",
+    "composition_id": "tadalafil_10_mg_tablets",
+    "pack_size": 4.0,
+    "pack_unit": "tablets",
+    "price_inr": 26.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0209",
+    "generic_name": "Sildenafil Citrate Tablet IP 50 mg",
+    "composition_id": "sildenafil_citrate_50_mg_tablets",
+    "pack_size": 4.0,
+    "pack_unit": "tablets",
+    "price_inr": 22.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0210",
+    "generic_name": "Prednisolone Tablet IP 5 mg",
+    "composition_id": "prednisolone_5_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 2.5,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0211",
+    "generic_name": "Prednisolone Tablet IP 10 mg",
+    "composition_id": "prednisolone_10_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 4.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0212",
+    "generic_name": "Prednisolone Tablet IP 20 mg",
+    "composition_id": "prednisolone_20_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "price_inr": 6.5,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0213",
+    "generic_name": "Dexamethasone Tablet IP 0.5 mg",
+    "composition_id": "dexamethasone_0_5_mg_tablets",
+    "pack_size": 30.0,
+    "pack_unit": "tablets",
+    "price_inr": 1.8,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0214",
+    "generic_name": "Methylprednisolone Tablet IP 4 mg",
+    "composition_id": "methylprednisolone_4_mg_tablets",
+    "pack_size": 14.0,
+    "pack_unit": "tablets",
+    "price_inr": 14.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  },
+  {
+    "ja_code": "PMBJP-0215",
+    "generic_name": "Methylprednisolone Tablet IP 8 mg",
+    "composition_id": "methylprednisolone_8_mg_tablets",
+    "pack_size": 14.0,
+    "pack_unit": "tablets",
+    "price_inr": 22.0,
+    "source": "PMBJP Product & MRP List 2026",
+    "price_date": "2026-10-01"
+  }
+]

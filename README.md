@@ -152,7 +152,7 @@ curl -i "http://127.0.0.1:8000/api/v1/data/bundle"
 ---
 
 ### Integration & Architecture Notes
-- **Zero Hallucination / Bundled Offline Store**: The dataset (106 curated Indian medicines) is shipped locally and stored in SQLite. **Zero external APIs or LLMs are invoked during search**.
+- **Zero Hallucination / Bundled Offline Store**: The dataset (215 curated essential Indian medicines) is shipped locally and stored in SQLite. **Zero external APIs or LLMs are invoked during search**.
 - **CORS Configured for Frontend Dev**: Pre-configured to accept requests and credentials from `http://localhost:5173` (Vite), `http://localhost:3000` (Next.js/React), `http://localhost:8080`, and any local port regex.
 - **Sub-millisecond LRU Caching**: Repeated queries hit an in-memory LRU cache keyed by dataset content hash.
 

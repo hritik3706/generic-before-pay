@@ -10,7 +10,7 @@ export type Kendra = {
   updated: string | null;
 };
 
-export type KendraHit = Kendra & { distanceKm: number };
+export type KendraHit = Kendra & { distanceKm: number | null };
 
 const EARTH_KM = 6371;
 
@@ -26,7 +26,7 @@ export function haversineKm(from: LatLng, to: LatLng): number {
 export function nearestKendras(origin: LatLng, rows: Kendra[], limit = 3): KendraHit[] {
   return rows
     .map((row) => ({ ...row, distanceKm: haversineKm(origin, row) }))
-    .sort((a, b) => a.distanceKm - b.distanceKm || a.name.localeCompare(b.name))
+    .sort((a, b) => (a.distanceKm ?? Number.POSITIVE_INFINITY) - (b.distanceKm ?? Number.POSITIVE_INFINITY) || a.name.localeCompare(b.name))
     .slice(0, limit);
 }
 
@@ -46,6 +46,6 @@ function toRadians(value: number): number {
   return (value * Math.PI) / 180;
 }
 
-/** This repo ships no Kendra rows and no PIN table. Do not fill these in. */
+/** No Kendra rows are shipped in the bundle. Nearby rows are read from the public directory at request time. */
 export const BUNDLED_KENDRAS: Kendra[] = [];
 export const BUNDLED_PINS: PinRow[] = [];

@@ -7,7 +7,7 @@ import { DemoBadge } from "@/components/DemoBadge";
 import { prepareImage } from "@/lib/image/prepare";
 import { loadBundledCatalog } from "@/lib/data/load";
 import { messageKeyForCode } from "@/lib/ocr/errors";
-import { createOcrProvider, ocrKindFromLocation } from "@/lib/ocr/provider";
+import { createOcrProvider, ocrKindFromLocation, type OcrKind } from "@/lib/ocr/provider";
 import { OcrClientError, type OcrFailureCode, type OcrProvider } from "@/lib/ocr/types";
 import { useI18n } from "@/lib/i18n/context";
 import { linesFromOcr } from "@/lib/session/lines";
@@ -37,8 +37,8 @@ export function ScanView({ provider }: { provider?: OcrProvider }) {
   const retake = t("action.retake");
   const wait = t("scan.wait");
 
-  function kind(): "mock" | "gemma" {
-    if (typeof window === "undefined") return "mock";
+  function kind(): OcrKind {
+    if (typeof window === "undefined") return "local";
     return ocrKindFromLocation(window.location.search);
   }
 

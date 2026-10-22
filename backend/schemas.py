@@ -176,3 +176,36 @@ class ErrorResponse(BaseModel):
     error: ErrorDetail
     disclaimer: str = STANDARD_DISCLAIMER
 
+
+class KendraItem(BaseModel):
+    model_config = ConfigDict(extra="forbid")
+
+    kendra_code: Optional[str] = None
+    name: str
+    address: Optional[str] = None
+    pincode: Optional[str] = None
+    district: Optional[str] = None
+    state: Optional[str] = None
+    phone: Optional[str] = None
+    lat: float
+    lng: float
+    distance_km: float
+    maps_url: str
+    data_date: Optional[str] = None
+
+
+class KendraData(BaseModel):
+    model_config = ConfigDict(extra="forbid")
+
+    total_kendras: int
+    kendras: List[KendraItem]
+    note: str = "Please call ahead; stock may vary."
+
+
+class KendraResponse(BaseModel):
+    model_config = ConfigDict(extra="forbid")
+
+    success: bool = True
+    data: KendraData
+    disclaimer: str = STANDARD_DISCLAIMER
+

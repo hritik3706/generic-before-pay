@@ -19,6 +19,14 @@ describe("sessionReducer", () => {
     expect(sessionReducer(started, { type: "reset" })).toEqual(initialSession);
   });
 
+  it("replaces the medicine list when a new prescription is read", () => {
+    const catalog = loadBundledCatalog();
+    if (!catalog.ok) throw new Error("catalog");
+    const started = sessionReducer(initialSession, { type: "addLine", line: buildLine("Calpol 500", catalog.records, "a") });
+    const next = sessionReducer(started, { type: "setLines", lines: [buildLine("Azithral 500", catalog.records, "b")] });
+    expect(next.lines.map((line) => line.query)).toEqual(["Azithral 500"]);
+  });
+
   it("does not count an unconfirmed line", () => {
     const catalog = loadBundledCatalog();
     if (!catalog.ok) throw new Error("catalog");

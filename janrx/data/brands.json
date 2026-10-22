@@ -1,0 +1,3636 @@
+[
+  {
+    "brand_id": "paracetamol-500mg-tab",
+    "brand_name": "Calpol 500",
+    "aliases": [
+      "crocin",
+      "paracetmol",
+      "crocin 500",
+      "calpol 500",
+      "पैरासिटामोल",
+      "pacimol 500",
+      "paracip 500",
+      "क्रोसिन",
+      "calpol"
+    ],
+    "manufacturer": "GlaxoSmithKline",
+    "composition_id": "paracetamol_500_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 32.5,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "paracetamol-650mg-tab",
+    "brand_name": "Dolo 650",
+    "aliases": [
+      "dolo",
+      "pacimol 650",
+      "डोलो 650",
+      "dolo 650",
+      "paracetmol 650",
+      "calpol 650",
+      "डोलो"
+    ],
+    "manufacturer": "Micro Labs Ltd",
+    "composition_id": "paracetamol_650_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 34.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "crocin-advance-tab",
+    "brand_name": "Crocin Advance",
+    "aliases": [
+      "crocin",
+      "crocin advance",
+      "क्रोसिन एडवांस",
+      "crocin 500"
+    ],
+    "manufacturer": "Haleon / GSK",
+    "composition_id": "paracetamol_fast_release_500_mg_tablets",
+    "pack_size": 20.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 42.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "ibuprofen-400mg-tab",
+    "brand_name": "Brufen 400",
+    "aliases": [
+      "ibugesic 400",
+      "brufen",
+      "ibuprofen",
+      "brufen 400"
+    ],
+    "manufacturer": "Abbott India",
+    "composition_id": "ibuprofen_400_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 25.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "ibuprofen-paracetamol-tab",
+    "brand_name": "Combiflam",
+    "aliases": [
+      "combiflam",
+      "ibugesic plus",
+      "flexon",
+      "कॉम्बीफ्लेम"
+    ],
+    "manufacturer": "Sanofi India",
+    "composition_id": "ibuprofen_paracetamol_400_mg_325_mg_tablets",
+    "pack_size": 20.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 52.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "aceclofenac-paracetamol-tab",
+    "brand_name": "Zerodol-P",
+    "aliases": [
+      "zerodol-p",
+      "जीरोडोल",
+      "zerodol p",
+      "aceclo plus",
+      "hifenac p"
+    ],
+    "manufacturer": "Ipca Laboratories",
+    "composition_id": "aceclofenac_paracetamol_100_mg_325_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 68.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "aceclofenac-paracetamol-serratio-tab",
+    "brand_name": "Zerodol-SP",
+    "aliases": [
+      "zerodol sp",
+      "zerodol-sp",
+      "hifenac sp",
+      "aceclo sp"
+    ],
+    "manufacturer": "Ipca Laboratories",
+    "composition_id": "aceclofenac_paracetamol_serratiopeptidase_100_mg_325_mg_15_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 125.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "diclofenac-50mg-tab",
+    "brand_name": "Voveran 50 GE",
+    "aliases": [
+      "voveran 50 ge",
+      "voveran 50",
+      "voveran",
+      "diclofenac"
+    ],
+    "manufacturer": "Novartis / Morepen",
+    "composition_id": "diclofenac_sodium_50_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 65.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "mefenamic-acid-dicyclomine-tab",
+    "brand_name": "Meftal-Spas",
+    "aliases": [
+      "मेफ्टाल स्पास",
+      "spasmo proxyvon",
+      "meftal-spas",
+      "meftal",
+      "meftal spas"
+    ],
+    "manufacturer": "Blue Cross Laboratories",
+    "composition_id": "mefenamic_acid_dicyclomine_250_mg_10_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 54.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "tramadol-paracetamol-tab",
+    "brand_name": "Ultracet",
+    "aliases": [
+      "ultracet",
+      "calpol t",
+      "tramazac p"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "tramadol_paracetamol_37_5_mg_325_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 240.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "pantoprazole-40mg-tab",
+    "brand_name": "Pan 40",
+    "aliases": [
+      "pantocid 40",
+      "पैन 40",
+      "pantodac",
+      "pan 40",
+      "pantop 40"
+    ],
+    "manufacturer": "Alkem Laboratories",
+    "composition_id": "pantoprazole_40_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 95.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "pantoprazole-domperidone-cap",
+    "brand_name": "Pan-D",
+    "aliases": [
+      "पैन डी",
+      "pantodac dsr",
+      "pantocid dsr",
+      "pan dsr",
+      "pan-d",
+      "pan d"
+    ],
+    "manufacturer": "Alkem Laboratories",
+    "composition_id": "pantoprazole_domperidone_40_mg_30_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "mrp_inr": 198.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "omeprazole-20mg-cap",
+    "brand_name": "Omez 20",
+    "aliases": [
+      "omez 20",
+      "omez",
+      "omizac",
+      "ओमेज"
+    ],
+    "manufacturer": "Dr. Reddy's Laboratories",
+    "composition_id": "omeprazole_20_mg_capsules",
+    "pack_size": 20.0,
+    "pack_unit": "capsules",
+    "mrp_inr": 65.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "omeprazole-domperidone-cap",
+    "brand_name": "Omez-D",
+    "aliases": [
+      "omez-d",
+      "omeprazole d",
+      "omez d",
+      "omizac d"
+    ],
+    "manufacturer": "Dr. Reddy's Laboratories",
+    "composition_id": "omeprazole_domperidone_20_mg_10_mg_capsules",
+    "pack_size": 15.0,
+    "pack_unit": "capsules",
+    "mrp_inr": 145.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "rabeprazole-20mg-tab",
+    "brand_name": "Razo 20",
+    "aliases": [
+      "rabicip 20",
+      "happi 20",
+      "rabium 20",
+      "razo 20"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "rabeprazole_20_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 160.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "rabeprazole-domperidone-cap",
+    "brand_name": "Razo-D",
+    "aliases": [
+      "rabicip d",
+      "razo-d",
+      "razo d",
+      "rabium dsr"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "rabeprazole_domperidone_20_mg_30_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "mrp_inr": 185.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "esomeprazole-40mg-tab",
+    "brand_name": "Nexpro 40",
+    "aliases": [
+      "sompraz 40",
+      "nexpro 40",
+      "esomac 40"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "esomeprazole_40_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 155.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "ranitidine-150mg-tab",
+    "brand_name": "Rantac 150",
+    "aliases": [
+      "रानटैक",
+      "rantac 150",
+      "zantac 150",
+      "aciloc 150"
+    ],
+    "manufacturer": "J.B. Chemicals & Pharmaceuticals",
+    "composition_id": "ranitidine_150_mg_tablets",
+    "pack_size": 30.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 42.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "ondansetron-4mg-tab",
+    "brand_name": "Emeset 4",
+    "aliases": [
+      "emeset 4",
+      "ondem 4",
+      "vomikind 4",
+      "एमिसेट"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "ondansetron_4_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 48.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "sucralfate-oxethazaine-susp",
+    "brand_name": "Sucrafil-O Susp",
+    "aliases": [
+      "sucrafil o susp",
+      "pepsigard o",
+      "sucrafil-o susp",
+      "sucrafil o",
+      "sucral o"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "sucralfate_oxethazaine_1000_mg_20_mg_10_ml_ml",
+    "pack_size": 200.0,
+    "pack_unit": "ml",
+    "mrp_inr": 260.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "azithromycin-500mg-tab",
+    "brand_name": "Azithral 500",
+    "aliases": [
+      "azithral 500",
+      "zady 500",
+      "azee 500",
+      "azibact 500",
+      "एजिथ्रल",
+      "azithral"
+    ],
+    "manufacturer": "Alembic Pharmaceuticals",
+    "composition_id": "azithromycin_500_mg_tablets",
+    "pack_size": 5.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 132.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "azithromycin-250mg-tab",
+    "brand_name": "Azithral 250",
+    "aliases": [
+      "azee 250",
+      "azithral 250",
+      "zady 250"
+    ],
+    "manufacturer": "Alembic Pharmaceuticals",
+    "composition_id": "azithromycin_250_mg_tablets",
+    "pack_size": 6.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 75.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "amoxicillin-clav-625mg-tab",
+    "brand_name": "Augmentin 625 Duo",
+    "aliases": [
+      "augmentin 625 duo",
+      "ऑगमेंटिन",
+      "augmentin",
+      "clamp 625",
+      "moxikind cv 625"
+    ],
+    "manufacturer": "GlaxoSmithKline",
+    "composition_id": "amoxicillin_potassium_clavulanate_500_mg_125_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 204.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "amoxicillin-500mg-cap",
+    "brand_name": "Mox 500",
+    "aliases": [
+      "amoxil 500",
+      "novamox 500",
+      "mox 500"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "amoxicillin_500_mg_capsules",
+    "pack_size": 15.0,
+    "pack_unit": "capsules",
+    "mrp_inr": 98.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "cefixime-200mg-tab",
+    "brand_name": "Taxim-O 200",
+    "aliases": [
+      "टैक्सिम ओ",
+      "taxim o 200",
+      "mahacef 200",
+      "cefolac 200",
+      "taxim-o 200"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "cefixime_200_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 115.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "cefpodoxime-200mg-tab",
+    "brand_name": "Gudcef 200",
+    "aliases": [
+      "gudcef 200",
+      "monocef o 200",
+      "doxcef 200"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "cefpodoxime_proxetil_200_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 185.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "ciprofloxacin-500mg-tab",
+    "brand_name": "Ciplox 500",
+    "aliases": [
+      "ciprobid 500",
+      "cifran 500",
+      "सिपलॉक्स",
+      "ciplox 500",
+      "ciplox"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "ciprofloxacin_500_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 48.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "ofloxacin-200mg-tab",
+    "brand_name": "Oflox 200",
+    "aliases": [
+      "oflox 200",
+      "oflin 200",
+      "zanocin 200"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "ofloxacin_200_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 68.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "ofloxacin-ornidazole-tab",
+    "brand_name": "O2 Tablet",
+    "aliases": [
+      "o2",
+      "oflm-oz",
+      "ओ 2",
+      "o2 tablet",
+      "zenflox oz"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "ofloxacin_ornidazole_200_mg_500_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 135.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "levofloxacin-500mg-tab",
+    "brand_name": "Levomac 500",
+    "aliases": [
+      "levomac 500",
+      "glevo 500",
+      "levoflox 500"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "levofloxacin_500_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 95.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "metronidazole-400mg-tab",
+    "brand_name": "Flagyl 400",
+    "aliases": [
+      "flagyl 400",
+      "मेट्रोजिल",
+      "metrogyl 400"
+    ],
+    "manufacturer": "Abbott Healthcare",
+    "composition_id": "metronidazole_400_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 28.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "doxycycline-100mg-cap",
+    "brand_name": "Doxypal 100",
+    "aliases": [
+      "doxypal 100",
+      "doxy 100",
+      "doxylab",
+      "microdox-lbx"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "doxycycline_100_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "mrp_inr": 72.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "fluconazole-150mg-tab",
+    "brand_name": "Forcan 150",
+    "aliases": [
+      "flucos 150",
+      "फोरकैन",
+      "forcan 150",
+      "zocon 150"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "fluconazole_150_mg_tablets",
+    "pack_size": 3.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 45.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "itraconazole-100mg-cap",
+    "brand_name": "Canditral 100",
+    "aliases": [
+      "it-mac 100",
+      "canditral 100",
+      "itrasys 100"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "itraconazole_100_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "mrp_inr": 180.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "itraconazole-200mg-cap",
+    "brand_name": "Canditral 200",
+    "aliases": [
+      "it-mac 200",
+      "itrasys 200",
+      "canditral 200"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "itraconazole_200_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "mrp_inr": 290.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "metformin-500mg-tab",
+    "brand_name": "Glycomet 500",
+    "aliases": [
+      "gluformin 500",
+      "ग्लूकोमेट",
+      "glycomet 500",
+      "glycomet",
+      "obimet 500"
+    ],
+    "manufacturer": "USV Pvt Ltd",
+    "composition_id": "metformin_hydrochloride_500_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 28.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "metformin-1000mg-sr-tab",
+    "brand_name": "Glycomet SR 1000",
+    "aliases": [
+      "glycomet 1000",
+      "obimet sr 1000",
+      "glycomet sr 1000"
+    ],
+    "manufacturer": "USV Pvt Ltd",
+    "composition_id": "metformin_hydrochloride_sustained_release_1000_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 62.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "glimepiride-1mg-tab",
+    "brand_name": "Amaryl 1mg",
+    "aliases": [
+      "amaryl 1mg",
+      "glypride 1",
+      "ग्लाइमपिराइड",
+      "zoryl 1",
+      "amaryl 1"
+    ],
+    "manufacturer": "Sanofi India",
+    "composition_id": "glimepiride_1_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 95.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "glimepiride-2mg-tab",
+    "brand_name": "Amaryl 2mg",
+    "aliases": [
+      "amaryl 2",
+      "amaryl 2mg",
+      "zoryl 2",
+      "glypride 2"
+    ],
+    "manufacturer": "Sanofi India",
+    "composition_id": "glimepiride_2_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 165.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "glimepiride-metformin-1-500-tab",
+    "brand_name": "Glycomet-GP 1",
+    "aliases": [
+      "glycomet-gp 1",
+      "amaryl m 1",
+      "zoryl m 1",
+      "glycomet gp 1"
+    ],
+    "manufacturer": "USV Pvt Ltd",
+    "composition_id": "glimepiride_metformin_1_mg_500_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 145.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "glimepiride-metformin-2-500-tab",
+    "brand_name": "Glycomet-GP 2",
+    "aliases": [
+      "glycomet gp 2",
+      "glycomet-gp 2",
+      "zoryl m 2",
+      "amaryl m 2"
+    ],
+    "manufacturer": "USV Pvt Ltd",
+    "composition_id": "glimepiride_metformin_2_mg_500_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 195.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "vildagliptin-50mg-tab",
+    "brand_name": "Galvus 50",
+    "aliases": [
+      "गैल्वस",
+      "galvus 50",
+      "zomelis 50",
+      "jalra 50"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "vildagliptin_50_mg_tablets",
+    "pack_size": 14.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 315.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "vildagliptin-metformin-50-500-tab",
+    "brand_name": "Galvus Met 50/500",
+    "aliases": [
+      "zomelis met",
+      "galvus met 50 500",
+      "jalra m 50/500",
+      "galvus met",
+      "galvus met 50/500"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "vildagliptin_metformin_50_mg_500_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 380.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "dapagliflozin-10mg-tab",
+    "brand_name": "Forxiga 10",
+    "aliases": [
+      "oxra 10",
+      "dapadac 10",
+      "forxiga 10",
+      "फोर्क्सिगा"
+    ],
+    "manufacturer": "AstraZeneca",
+    "composition_id": "dapagliflozin_10_mg_tablets",
+    "pack_size": 14.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 750.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "teneligliptin-20mg-tab",
+    "brand_name": "Ziten 20",
+    "aliases": [
+      "ziten 20",
+      "dynaglipt 20",
+      "tenalim 20"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "teneligliptin_20_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 140.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "voglibose-0-2mg-tab",
+    "brand_name": "Volibo 0.2",
+    "aliases": [
+      "vogli 0.2",
+      "volibo 0 2",
+      "advog 0.2",
+      "volibo 0.2"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "voglibose_0_2_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 85.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "telmisartan-40mg-tab",
+    "brand_name": "Telma 40",
+    "aliases": [
+      "telma",
+      "telmikind 40",
+      "telvas 40",
+      "telpres 40",
+      "टेलमा",
+      "telma 40"
+    ],
+    "manufacturer": "Glenmark Pharmaceuticals",
+    "composition_id": "telmisartan_40_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 92.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "telmisartan-80mg-tab",
+    "brand_name": "Telma 80",
+    "aliases": [
+      "telmikind 80",
+      "telma 80",
+      "telvas 80"
+    ],
+    "manufacturer": "Glenmark Pharmaceuticals",
+    "composition_id": "telmisartan_80_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 165.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "telmisartan-amlodipine-tab",
+    "brand_name": "Telma-AM",
+    "aliases": [
+      "telmikind am",
+      "telma-am",
+      "टेलमा एएम",
+      "telma am",
+      "telpres am"
+    ],
+    "manufacturer": "Glenmark Pharmaceuticals",
+    "composition_id": "telmisartan_amlodipine_40_mg_5_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 185.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "amlodipine-5mg-tab",
+    "brand_name": "Amlong 5",
+    "aliases": [
+      "एमलॉन्ग",
+      "amlong",
+      "amlong 5",
+      "amlovas 5",
+      "stamlo 5"
+    ],
+    "manufacturer": "Micro Labs Ltd",
+    "composition_id": "amlodipine_5_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 45.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "amlodipine-10mg-tab",
+    "brand_name": "Amlong 10",
+    "aliases": [
+      "amlovas 10",
+      "amlong 10",
+      "stamlo 10"
+    ],
+    "manufacturer": "Micro Labs Ltd",
+    "composition_id": "amlodipine_10_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 78.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "losartan-50mg-tab",
+    "brand_name": "Losar 50",
+    "aliases": [
+      "repace 50",
+      "losakar 50",
+      "लोसार",
+      "losar",
+      "losar 50"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "losartan_potassium_50_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 95.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "metoprolol-50mg-tab",
+    "brand_name": "Betaloc 50",
+    "aliases": [
+      "betaloc 50",
+      "betaloc",
+      "metolar 50",
+      "seloken 50",
+      "बीटालॉक"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "metoprolol_tartrate_50_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 75.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "metoprolol-succinate-25-er-tab",
+    "brand_name": "Metolar-XR 25",
+    "aliases": [
+      "betaloc xl 25",
+      "metolar-xr 25",
+      "metolar xr 25",
+      "revalmet 25"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "metoprolol_succinate_extended_release_25_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 110.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "atenolol-50mg-tab",
+    "brand_name": "Aten 50",
+    "aliases": [
+      "tenormin 50",
+      "aten 50",
+      "betacard 50"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "atenolol_50_mg_tablets",
+    "pack_size": 14.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 42.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "ramipril-5mg-tab",
+    "brand_name": "Cardace 5",
+    "aliases": [
+      "cardace 5",
+      "ramirid 5",
+      "कारडेस",
+      "hopace 5"
+    ],
+    "manufacturer": "Sanofi India",
+    "composition_id": "ramipril_5_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 135.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "enalapril-5mg-tab",
+    "brand_name": "Envas 5",
+    "aliases": [
+      "vasotec 5",
+      "envas 5",
+      "enam 5"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "enalapril_maleate_5_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 58.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "olmesartan-20mg-tab",
+    "brand_name": "Olmecip 20",
+    "aliases": [
+      "olmecip 20",
+      "benicar 20",
+      "olmax 20"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "olmesartan_medoxomil_20_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 125.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "bisoprolol-5mg-tab",
+    "brand_name": "Concor 5",
+    "aliases": [
+      "bisonext 5",
+      "corbis 5",
+      "concor 5"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "bisoprolol_fumarate_5_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 105.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "furosemide-40mg-tab",
+    "brand_name": "Lasix 40",
+    "aliases": [
+      "lasix 40",
+      "लेसिक",
+      "frusenex 40"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "furosemide_40_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 22.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "spironolactone-25mg-tab",
+    "brand_name": "Aldactone 25",
+    "aliases": [
+      "spiromide",
+      "aldactone",
+      "aldactone 25"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "spironolactone_25_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 48.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "clopidogrel-75mg-tab",
+    "brand_name": "Deplatt 75",
+    "aliases": [
+      "deplatt 75",
+      "plavix 75",
+      "clopilet 75"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "clopidogrel_75_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 120.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "aspirin-75mg-ec-tab",
+    "brand_name": "Ecosprin 75",
+    "aliases": [
+      "ecosprin 75",
+      "इकोस्प्रिन",
+      "disprin 75",
+      "aspirin 75"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "aspirin_enteric_coated_75_mg_tablets",
+    "pack_size": 14.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 8.5,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "aspirin-150mg-ec-tab",
+    "brand_name": "Ecosprin 150",
+    "aliases": [
+      "ecosprin 150",
+      "aspirin 150"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "aspirin_enteric_coated_150_mg_tablets",
+    "pack_size": 14.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 12.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "atorvastatin-10mg-tab",
+    "brand_name": "Atorva 10",
+    "aliases": [
+      "storvas 10",
+      "atorlip 10",
+      "atorva 10",
+      "atorva",
+      "एटोरवा",
+      "lipitor 10"
+    ],
+    "manufacturer": "Zydus Cadila",
+    "composition_id": "atorvastatin_10_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 98.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "atorvastatin-20mg-tab",
+    "brand_name": "Atorva 20",
+    "aliases": [
+      "atorlip 20",
+      "storvas 20",
+      "atorva 20"
+    ],
+    "manufacturer": "Zydus Cadila",
+    "composition_id": "atorvastatin_20_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 180.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "atorvastatin-40mg-tab",
+    "brand_name": "Atorva 40",
+    "aliases": [
+      "storvas 40",
+      "lipitor 40",
+      "atorva 40"
+    ],
+    "manufacturer": "Zydus Cadila",
+    "composition_id": "atorvastatin_40_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 310.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "rosuvastatin-10mg-tab",
+    "brand_name": "Rozavel 10",
+    "aliases": [
+      "rozavel 10",
+      "रोजावेल",
+      "rosuvas 10",
+      "crestor 10"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "rosuvastatin_10_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 165.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "rosuvastatin-20mg-tab",
+    "brand_name": "Rozavel 20",
+    "aliases": [
+      "rosuvas 20",
+      "crestor 20",
+      "rozavel 20"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "rosuvastatin_20_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 285.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "fenofibrate-145mg-tab",
+    "brand_name": "Lipicard 145",
+    "aliases": [
+      "lipicard",
+      "fenolip 145",
+      "lipicard 145",
+      "tricor"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "fenofibrate_micronized_145_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 175.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "cetirizine-10mg-tab",
+    "brand_name": "Cetzine 10",
+    "aliases": [
+      "alerid 10",
+      "cetzine 10",
+      "cetzine",
+      "zyrtec 10",
+      "सेटजिन",
+      "okacet 10"
+    ],
+    "manufacturer": "Dr. Reddy's Laboratories",
+    "composition_id": "cetirizine_hydrochloride_10_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 22.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "levocetirizine-5mg-tab",
+    "brand_name": "Vozet 5",
+    "aliases": [
+      "levocet 5",
+      "लेवोसिट",
+      "vozet 5",
+      "xyzal 5"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "levocetirizine_5_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 58.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "montelukast-levocetirizine-tab",
+    "brand_name": "Montair-LC",
+    "aliases": [
+      "montek lc",
+      "montair-lc",
+      "telekast l",
+      "levocet m",
+      "मोंटेयर एलसी",
+      "montair lc"
+    ],
+    "manufacturer": "Cipla Ltd",
+    "composition_id": "montelukast_levocetirizine_10_mg_5_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 180.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "fexofenadine-120mg-tab",
+    "brand_name": "Allegra 120",
+    "aliases": [
+      "allegra 120",
+      "एलेग्रा",
+      "fexova 120",
+      "fexo 120"
+    ],
+    "manufacturer": "Sanofi India",
+    "composition_id": "fexofenadine_hydrochloride_120_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 170.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "fexofenadine-180mg-tab",
+    "brand_name": "Allegra 180",
+    "aliases": [
+      "fexo 180",
+      "allegra 180",
+      "fexova 180"
+    ],
+    "manufacturer": "Sanofi India",
+    "composition_id": "fexofenadine_hydrochloride_180_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 240.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "salbutamol-4mg-tab",
+    "brand_name": "Asthalin 4",
+    "aliases": [
+      "salbair 4",
+      "asthalin 4",
+      "अस्थालिन",
+      "ventolin 4"
+    ],
+    "manufacturer": "Cipla Ltd",
+    "composition_id": "salbutamol_4_mg_tablets",
+    "pack_size": 30.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 18.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "budesonide-formoterol-inhaler",
+    "brand_name": "Foracort 200 Inhaler",
+    "aliases": [
+      "foracort 200",
+      "budamate 200",
+      "symbicort 200",
+      "foracort 200 inhaler"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "budesonide_formoterol_200_mcg_6_mcg_doses",
+    "pack_size": 120.0,
+    "pack_unit": "doses",
+    "mrp_inr": 465.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "acebrophylline-100mg-cap",
+    "brand_name": "AB-Phylline 100",
+    "aliases": [
+      "ab phylline 100",
+      "ab-phylline 100",
+      "ab phylline",
+      "asmacure",
+      "mucophyl"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "acebrophylline_100_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "mrp_inr": 155.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "levothyroxine-25mcg-tab",
+    "brand_name": "Thyronorm 25",
+    "aliases": [
+      "eltroxin 25",
+      "thyrox 25",
+      "thyronorm 25"
+    ],
+    "manufacturer": "Abbott India",
+    "composition_id": "levothyroxine_sodium_25_mcg_tablets",
+    "pack_size": 120.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 145.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "levothyroxine-50mcg-tab",
+    "brand_name": "Thyronorm 50",
+    "aliases": [
+      "thyrox 50",
+      "thyronorm 50",
+      "eltroxin 50",
+      "थायरोनॉर्म"
+    ],
+    "manufacturer": "Abbott India",
+    "composition_id": "levothyroxine_sodium_50_mcg_tablets",
+    "pack_size": 120.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 165.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "levothyroxine-75mcg-tab",
+    "brand_name": "Thyronorm 75",
+    "aliases": [
+      "thyronorm 75",
+      "thyrox 75",
+      "eltroxin 75"
+    ],
+    "manufacturer": "Abbott India",
+    "composition_id": "levothyroxine_sodium_75_mcg_tablets",
+    "pack_size": 120.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 185.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "levothyroxine-100mcg-tab",
+    "brand_name": "Thyronorm 100",
+    "aliases": [
+      "eltroxin 100",
+      "thyronorm 100",
+      "thyrox 100"
+    ],
+    "manufacturer": "Abbott India",
+    "composition_id": "levothyroxine_sodium_100_mcg_tablets",
+    "pack_size": 120.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 210.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "calcium-vitamin-d3-tab",
+    "brand_name": "Shelcal 500",
+    "aliases": [
+      "शेलकल",
+      "calcimax 500",
+      "shelcal 500",
+      "cipcal 500"
+    ],
+    "manufacturer": "Torrent Pharmaceuticals",
+    "composition_id": "calcium_carbonate_vitamin_d3_500_mg_250_iu_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 135.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "cholecalciferol-60k-cap",
+    "brand_name": "Calcirol 60K",
+    "aliases": [
+      "विटामिन डी 3",
+      "calcirol 60k",
+      "uprise d3 60k",
+      "calcirol",
+      "d3 must 60k"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "cholecalciferol_vitamin_d3_60000_iu_capsules",
+    "pack_size": 4.0,
+    "pack_unit": "capsules",
+    "mrp_inr": 140.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "methylcobalamin-1500mcg-tab",
+    "brand_name": "Nurokind-OD",
+    "aliases": [
+      "nurokind-od",
+      "न्यूरोकाइंड",
+      "nurokind od",
+      "cobadex czs",
+      "mecobal 1500"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "methylcobalamin_vitamin_b12_1500_mcg_tablets",
+    "pack_size": 20.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 165.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "ferrous-ascorbate-folic-tab",
+    "brand_name": "Orofer-XT",
+    "aliases": [
+      "feronia xt",
+      "livogen xt",
+      "ओरोफर",
+      "orofer-xt",
+      "orofer xt"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "ferrous_ascorbate_folic_acid_100_mg_1_5_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 185.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "folic-acid-5mg-tab",
+    "brand_name": "Folvite 5mg",
+    "aliases": [
+      "folvite 5mg",
+      "folic acid",
+      "folvite",
+      "fol 5"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "folic_acid_5_mg_tablets",
+    "pack_size": 45.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 42.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "vitamin-c-zinc-chewable-tab",
+    "brand_name": "Limcee 500",
+    "aliases": [
+      "लिम्सी",
+      "sukcee",
+      "limcee",
+      "limcee 500",
+      "celin 500"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "ascorbic_acid_vitamin_c_zinc_500_mg_5_mg_chewable",
+    "pack_size": 15.0,
+    "pack_unit": "chewable",
+    "mrp_inr": 32.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "alprazolam-0-25mg-tab",
+    "brand_name": "Alprax 0.25",
+    "aliases": [
+      "restyl 0.25",
+      "एल्प्राक्स",
+      "trika 0.25",
+      "alprax 0.25",
+      "alprax 0 25"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "alprazolam_0_25_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 38.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "alprazolam-0-5mg-tab",
+    "brand_name": "Alprax 0.5",
+    "aliases": [
+      "trika 0.5",
+      "restyl 0.5",
+      "alprax 0.5",
+      "alprax 0 5"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "alprazolam_0_5_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 62.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "clonazepam-0-5mg-tab",
+    "brand_name": "Clona 0.5",
+    "aliases": [
+      "zapiz 0.5",
+      "lonazep 0.5",
+      "clona 0.5",
+      "clona 0 5"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "clonazepam_0_5_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 75.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "escitalopram-10mg-tab",
+    "brand_name": "Nexito 10",
+    "aliases": [
+      "stalopam 10",
+      "cipralex 10",
+      "नेक्सिटो",
+      "nexito 10"
+    ],
+    "manufacturer": "Sun Pharma",
+    "composition_id": "escitalopram_10_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 110.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "sertraline-50mg-tab",
+    "brand_name": "Daxid 50",
+    "aliases": [
+      "serlift 50",
+      "zoloft 50",
+      "daxid 50"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "sertraline_50_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 135.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "gabapentin-100mg-cap",
+    "brand_name": "Gabapin 100",
+    "aliases": [
+      "gabapin 100",
+      "neurontin 100",
+      "gaba 100"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "gabapentin_100_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "mrp_inr": 140.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "pregabalin-75mg-cap",
+    "brand_name": "Pregalin 75",
+    "aliases": [
+      "maxgalin 75",
+      "pregalin 75",
+      "lyrica 75"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "pregabalin_75_mg_capsules",
+    "pack_size": 15.0,
+    "pack_unit": "capsules",
+    "mrp_inr": 210.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "clotrimazole-1-cream",
+    "brand_name": "Candid 1% Cream",
+    "aliases": [
+      "candid 1% cream",
+      "candid cream",
+      "कैंडिड",
+      "canesten",
+      "clocip",
+      "candid 1 cream"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "clotrimazole_1_w_w_gm",
+    "pack_size": 30.0,
+    "pack_unit": "gm",
+    "mrp_inr": 115.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "betamethasone-0-1-cream",
+    "brand_name": "Betnovate-N Cream",
+    "aliases": [
+      "betnovate",
+      "बेटनोवेट",
+      "betnovate n",
+      "betnovate n cream",
+      "betnovate-n cream"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "betamethasone_neomycin_0_1_0_5_w_w_gm",
+    "pack_size": 20.0,
+    "pack_unit": "gm",
+    "mrp_inr": 52.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "mupirocin-2-ointment",
+    "brand_name": "T-Bact 2% Ointment",
+    "aliases": [
+      "mupirocin",
+      "t bact",
+      "bactroban",
+      "t-bact 2% ointment",
+      "t bact 2 ointment"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "mupirocin_2_w_w_gm",
+    "pack_size": 15.0,
+    "pack_unit": "gm",
+    "mrp_inr": 175.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "permethrin-5-lotion",
+    "brand_name": "Permite 5% Lotion",
+    "aliases": [
+      "permite 5 lotion",
+      "perlice",
+      "permite 5% lotion",
+      "permite",
+      "scaboma p"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "permethrin_5_w_v_ml",
+    "pack_size": 60.0,
+    "pack_unit": "ml",
+    "mrp_inr": 125.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "carboxymethylcellulose-0-5-eyedrop",
+    "brand_name": "Refresh Tears",
+    "aliases": [
+      "refresh tears",
+      "add tears",
+      "tears naturale"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "carboxymethylcellulose_0_5_w_v_ml",
+    "pack_size": 10.0,
+    "pack_unit": "ml",
+    "mrp_inr": 160.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "ciprofloxacin-0-3-eyedrop",
+    "brand_name": "Ciplox Eye Drops",
+    "aliases": [
+      "ciplox eye",
+      "ciplox eye drops",
+      "cifran eye",
+      "cipro eye drops"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "ciprofloxacin_0_3_w_v_ml",
+    "pack_size": 10.0,
+    "pack_unit": "ml",
+    "mrp_inr": 24.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "moxifloxacin-0-5-eyedrop",
+    "brand_name": "Moxicip Eye Drops",
+    "aliases": [
+      "moxicip",
+      "moxicip eye drops",
+      "vigamox",
+      "milflox"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "moxifloxacin_0_5_w_v_ml",
+    "pack_size": 5.0,
+    "pack_unit": "ml",
+    "mrp_inr": 140.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "tamsulosin-0-4mg-cap",
+    "brand_name": "Urimax 0.4",
+    "aliases": [
+      "veltam 0.4",
+      "flomax 0.4",
+      "urimax 0.4",
+      "urimax 0 4",
+      "यूरिमैक्स"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "tamsulosin_hydrochloride_0_4_mg_capsules",
+    "pack_size": 15.0,
+    "pack_unit": "capsules",
+    "mrp_inr": 295.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "finasteride-5mg-tab",
+    "brand_name": "Finast 5mg",
+    "aliases": [
+      "finast 5mg",
+      "proscar 5",
+      "fincar 5",
+      "finast 5"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "finasteride_5_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 180.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "allopurinol-100mg-tab",
+    "brand_name": "Zyloric 100",
+    "aliases": [
+      "zyloric 100",
+      "ciloric 100",
+      "zyrik 100"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "allopurinol_100_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 32.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "hydroxychloroquine-200mg-tab",
+    "brand_name": "HCQS 200",
+    "aliases": [
+      "rhq 200",
+      "plaquenil 200",
+      "hcqs 200"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "hydroxychloroquine_sulfate_200_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 125.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "etoricoxib-60mg-tab",
+    "brand_name": "Nucoxia 60",
+    "aliases": [
+      "arcoxia 60",
+      "न्यूकोक्सिया 60",
+      "nucoxia 60",
+      "etoshine 60"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "etoricoxib_60_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 110.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "etoricoxib-90mg-tab",
+    "brand_name": "Nucoxia 90",
+    "aliases": [
+      "nucoxia 90",
+      "etoshine 90",
+      "न्यूकोक्सिया 90",
+      "arcoxia 90"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "etoricoxib_90_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 145.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "etoricoxib-120mg-tab",
+    "brand_name": "Nucoxia 120",
+    "aliases": [
+      "arcoxia 120",
+      "nucoxia 120",
+      "etoshine 120"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "etoricoxib_120_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 195.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "naproxen-500mg-tab",
+    "brand_name": "Naprosyn 500",
+    "aliases": [
+      "नेप्रोसीन",
+      "xenobid 500",
+      "naprosyn 500"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "naproxen_500_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 85.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "piroxicam-20mg-cap",
+    "brand_name": "Dolonex 20",
+    "aliases": [
+      "dolonex 20",
+      "pirox 20",
+      "डोलोनेक्स"
+    ],
+    "manufacturer": "Micro Labs Ltd",
+    "composition_id": "piroxicam_20_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "mrp_inr": 78.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "ketorolac-10mg-dt-tab",
+    "brand_name": "Ketorol-DT 10",
+    "aliases": [
+      "ketanov dt",
+      "कीटोरोल",
+      "ketorol dt 10",
+      "ketorol dt",
+      "ketorol-dt 10"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "ketorolac_tromethamine_10_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 55.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "domperidone-10mg-tab",
+    "brand_name": "Domstal 10",
+    "aliases": [
+      "motinorm 10",
+      "डोमस्टाल",
+      "vomistop 10",
+      "domstal 10"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "domperidone_10_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 42.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "rabeprazole-levosulpiride-cap",
+    "brand_name": "Razo-L",
+    "aliases": [
+      "rabicip l",
+      "razo-l",
+      "rabium plus",
+      "razo l"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "rabeprazole_levosulpiride_20_mg_75_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "mrp_inr": 240.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "pantoprazole-levosulpiride-cap",
+    "brand_name": "Pan-L",
+    "aliases": [
+      "pan-l",
+      "pan l",
+      "pantocid l",
+      "pantodac l"
+    ],
+    "manufacturer": "Alkem Laboratories",
+    "composition_id": "pantoprazole_levosulpiride_40_mg_75_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "mrp_inr": 250.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "dicyclomine-paracetamol-tab",
+    "brand_name": "Spasmonil",
+    "aliases": [
+      "cyclopam",
+      "spasmonil",
+      "colimex",
+      "स्पास्मोनिल"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "dicyclomine_paracetamol_20_mg_325_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 48.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "drotaverine-40mg-tab",
+    "brand_name": "Drotin 40",
+    "aliases": [
+      "ड्रोटीन",
+      "drotaverine 40",
+      "drotin 40"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "drotaverine_hydrochloride_40_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 95.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "drotaverine-mefenamic-tab",
+    "brand_name": "Drotin-M",
+    "aliases": [
+      "drotin m",
+      "drotin-m",
+      "ड्रोटीन एम",
+      "drotikind m"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "drotaverine_mefenamic_acid_80_mg_250_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 165.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "loperamide-2mg-tab",
+    "brand_name": "Imodium 2mg",
+    "aliases": [
+      "eldoper",
+      "इमोडियम",
+      "imodium",
+      "lopamide",
+      "imodium 2mg"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "loperamide_hydrochloride_2_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 28.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "racecadotril-100mg-cap",
+    "brand_name": "Redotil 100",
+    "aliases": [
+      "enuff 100",
+      "redotil 100",
+      "zedott 100"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "racecadotril_100_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "mrp_inr": 160.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "ors-powder-sachet",
+    "brand_name": "Electral Powder",
+    "aliases": [
+      "electral powder",
+      "इलेक्ट्रल",
+      "electral",
+      "ors sachet",
+      "ors"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "oral_rehydration_salts_who_formula_21_8_gm_gm",
+    "pack_size": 21.8,
+    "pack_unit": "gm",
+    "mrp_inr": 22.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "lactulose-syrup-100ml",
+    "brand_name": "Duphalac Syrup",
+    "aliases": [
+      "duphalac",
+      "cremalax liquid",
+      "duphalac syrup",
+      "livotuk"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "lactulose_10_gm_15_ml_ml",
+    "pack_size": 100.0,
+    "pack_unit": "ml",
+    "mrp_inr": 185.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "chlordiazepoxide-clidinium-tab",
+    "brand_name": "Librax",
+    "aliases": [
+      "clindex",
+      "librax",
+      "spasnil"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "chlordiazepoxide_clidinium_bromide_5_mg_2_5_mg_tablets",
+    "pack_size": 20.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 165.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "cefuroxime-500mg-tab",
+    "brand_name": "Ceftum 500",
+    "aliases": [
+      "forcef 500",
+      "सेफ्टम 500",
+      "cetil 500",
+      "ceftum 500"
+    ],
+    "manufacturer": "GlaxoSmithKline",
+    "composition_id": "cefuroxime_axetil_500_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 420.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "cefuroxime-250mg-tab",
+    "brand_name": "Ceftum 250",
+    "aliases": [
+      "ceftum 250",
+      "forcef 250",
+      "cetil 250"
+    ],
+    "manufacturer": "GlaxoSmithKline",
+    "composition_id": "cefuroxime_axetil_250_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 240.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "cefixime-ofloxacin-tab",
+    "brand_name": "Taxim-O Plus",
+    "aliases": [
+      "taxim o plus",
+      "mahacef plus",
+      "taxim-o plus",
+      "cefolac plus"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "cefixime_ofloxacin_200_mg_200_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 210.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "clindamycin-300mg-cap",
+    "brand_name": "Dalacin C 300",
+    "aliases": [
+      "clindex 300",
+      "dalcap 300",
+      "dalacin c 300"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "clindamycin_hydrochloride_300_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "mrp_inr": 280.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "linezolid-600mg-tab",
+    "brand_name": "Linid 600",
+    "aliases": [
+      "lizomac 600",
+      "linid 600",
+      "zyvox 600"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "linezolid_600_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 390.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "nitrofurantoin-100mg-tab",
+    "brand_name": "Martifur MR 100",
+    "aliases": [
+      "martifur mr 100",
+      "furadantin",
+      "niftran 100"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "nitrofurantoin_100_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 165.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "faropenem-200mg-tab",
+    "brand_name": "Farobact 200",
+    "aliases": [
+      "faronem 200",
+      "farozet 200",
+      "farobact 200"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "faropenem_sodium_200_mg_tablets",
+    "pack_size": 6.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 580.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "terbinafine-250mg-tab",
+    "brand_name": "Sebifin 250",
+    "aliases": [
+      "terbicip 250",
+      "lamisil 250",
+      "sebifin 250"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "terbinafine_hydrochloride_250_mg_tablets",
+    "pack_size": 7.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 195.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "terbinafine-500mg-tab",
+    "brand_name": "Sebifin 500",
+    "aliases": [
+      "terbicip 500",
+      "sebifin 500"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "terbinafine_hydrochloride_500_mg_tablets",
+    "pack_size": 7.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 320.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "acyclovir-400mg-tab",
+    "brand_name": "Acivir 400",
+    "aliases": [
+      "herpex 400",
+      "acivir 400",
+      "zovirax 400"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "acyclovir_400_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 110.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "oseltamivir-75mg-cap",
+    "brand_name": "FluVir 75",
+    "aliases": [
+      "tamiflu 75",
+      "fluvir 75",
+      "antiflu 75"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "oseltamivir_phosphate_75_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "mrp_inr": 495.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "telmisartan-chlorthalidone-tab",
+    "brand_name": "Telma-CT 40",
+    "aliases": [
+      "telma-ct 40",
+      "telpres ct",
+      "telma ct 40",
+      "telmikind ct"
+    ],
+    "manufacturer": "Glenmark Pharmaceuticals",
+    "composition_id": "telmisartan_chlorthalidone_40_mg_12_5_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 165.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "telmisartan-hctz-tab",
+    "brand_name": "Telma-H",
+    "aliases": [
+      "telmikind h",
+      "telvas h",
+      "टेलमा एच",
+      "telma h",
+      "telma-h"
+    ],
+    "manufacturer": "Glenmark Pharmaceuticals",
+    "composition_id": "telmisartan_hydrochlorothiazide_40_mg_12_5_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 145.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "losartan-hctz-tab",
+    "brand_name": "Losar-H",
+    "aliases": [
+      "losar h",
+      "losar-h",
+      "repace h",
+      "losakar h",
+      "लोसार एच"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "losartan_potassium_hydrochlorothiazide_50_mg_12_5_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 135.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "cilnidipine-10mg-tab",
+    "brand_name": "Cilacar 10",
+    "aliases": [
+      "cilaheart 10",
+      "cilacar 10",
+      "cilnidac 10",
+      "सिलाकार"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "cilnidipine_10_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 115.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "cilnidipine-20mg-tab",
+    "brand_name": "Cilacar 20",
+    "aliases": [
+      "cilacar 20",
+      "cilaheart 20",
+      "cilnidac 20"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "cilnidipine_20_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 195.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "nebivolol-5mg-tab",
+    "brand_name": "Nebicard 5",
+    "aliases": [
+      "nebicard 5",
+      "nebilong 5",
+      "nebistol 5"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "nebivolol_5_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 145.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "metoprolol-succinate-50-er-tab",
+    "brand_name": "Metolar-XR 50",
+    "aliases": [
+      "revalmet 50",
+      "metolar xr 50",
+      "metolar-xr 50",
+      "betaloc xl 50"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "metoprolol_succinate_extended_release_50_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 165.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "ramipril-2-5mg-tab",
+    "brand_name": "Cardace 2.5",
+    "aliases": [
+      "cardace 2 5",
+      "hopace 2.5",
+      "ramirid 2.5",
+      "cardace 2.5"
+    ],
+    "manufacturer": "Sanofi India",
+    "composition_id": "ramipril_2_5_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 85.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "bisoprolol-2-5mg-tab",
+    "brand_name": "Concor 2.5",
+    "aliases": [
+      "concor 2 5",
+      "corbis 2.5",
+      "concor 2.5",
+      "bisonext 2.5"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "bisoprolol_fumarate_2_5_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 75.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "olmesartan-40mg-tab",
+    "brand_name": "Olmecip 40",
+    "aliases": [
+      "olmax 40",
+      "benicar 40",
+      "olmecip 40"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "olmesartan_medoxomil_40_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 195.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "diltiazem-30mg-tab",
+    "brand_name": "Dilzem 30",
+    "aliases": [
+      "दिलजेम",
+      "diltiaz 30",
+      "dilzem 30"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "diltiazem_hydrochloride_30_mg_tablets",
+    "pack_size": 30.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 62.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "diltiazem-60mg-tab",
+    "brand_name": "Dilzem 60",
+    "aliases": [
+      "dilzem 60",
+      "diltiaz 60"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "diltiazem_hydrochloride_60_mg_tablets",
+    "pack_size": 30.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 98.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "verapamil-40mg-tab",
+    "brand_name": "Calaptin 40",
+    "aliases": [
+      "कैलाप्टिन",
+      "veramil 40",
+      "calaptin 40"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "verapamil_hydrochloride_40_mg_tablets",
+    "pack_size": 20.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 45.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "digoxin-0-25mg-tab",
+    "brand_name": "Lanoxin 0.25",
+    "aliases": [
+      "lanoxin",
+      "lanoxin 0.25",
+      "dixin 0.25",
+      "lanoxin 0 25",
+      "लैनेक्सिन"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "digoxin_0_25_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 22.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "isosorbide-mononitrate-30-sr-tab",
+    "brand_name": "Monotrate 30",
+    "aliases": [
+      "monit 30",
+      "monotrate 30",
+      "isimo 30"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "isosorbide_mononitrate_sustained_release_30_mg_tablets",
+    "pack_size": 30.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 85.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "clopidogrel-aspirin-tab",
+    "brand_name": "Deplatt-A 75",
+    "aliases": [
+      "deplatt a",
+      "plavix plus",
+      "deplatt-a 75",
+      "deplatt a 75",
+      "clopilet a"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "clopidogrel_aspirin_75_mg_75_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 135.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "chlorthalidone-12-5mg-tab",
+    "brand_name": "Thalizide 12.5",
+    "aliases": [
+      "thalizide 12.5",
+      "hygroton 12.5",
+      "thalizide 12 5"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "chlorthalidone_12_5_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 75.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "torsemide-10mg-tab",
+    "brand_name": "Dytor 10",
+    "aliases": [
+      "dytor 10",
+      "tide 10",
+      "डाइटोर",
+      "torlac 10"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "torsemide_10_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 78.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "torsemide-20mg-tab",
+    "brand_name": "Dytor 20",
+    "aliases": [
+      "torlac 20",
+      "tide 20",
+      "dytor 20"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "torsemide_20_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 125.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "torsemide-spironolactone-tab",
+    "brand_name": "Dytor Plus 10",
+    "aliases": [
+      "dytor plus 10",
+      "torlac plus",
+      "tide plus 10"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "torsemide_spironolactone_10_mg_50_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 110.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "metformin-850mg-tab",
+    "brand_name": "Glycomet 850",
+    "aliases": [
+      "glycomet 850",
+      "obimet 850",
+      "gluformin 850"
+    ],
+    "manufacturer": "USV Pvt Ltd",
+    "composition_id": "metformin_hydrochloride_850_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 48.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "glimepiride-3mg-tab",
+    "brand_name": "Amaryl 3mg",
+    "aliases": [
+      "glypride 3",
+      "amaryl 3",
+      "amaryl 3mg",
+      "zoryl 3"
+    ],
+    "manufacturer": "Sanofi India",
+    "composition_id": "glimepiride_3_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 210.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "glimepiride-4mg-tab",
+    "brand_name": "Amaryl 4mg",
+    "aliases": [
+      "zoryl 4",
+      "amaryl 4",
+      "amaryl 4mg",
+      "glypride 4"
+    ],
+    "manufacturer": "Sanofi India",
+    "composition_id": "glimepiride_4_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 260.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "empagliflozin-10mg-tab",
+    "brand_name": "Jardiance 10",
+    "aliases": [
+      "empaglif 10",
+      "empa 10",
+      "jardiance 10",
+      "जारडिएंस"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "empagliflozin_10_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 680.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "empagliflozin-25mg-tab",
+    "brand_name": "Jardiance 25",
+    "aliases": [
+      "jardiance 25",
+      "empa 25",
+      "empaglif 25"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "empagliflozin_25_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 850.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "empagliflozin-metformin-tab",
+    "brand_name": "Jardiance Duo 12.5/500",
+    "aliases": [
+      "jardiance duo",
+      "jardiance duo 12.5/500",
+      "jardiance duo 12 5 500",
+      "empa m"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "empagliflozin_metformin_12_5_mg_500_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 790.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "dapagliflozin-metformin-tab",
+    "brand_name": "Oxra-M 10/500",
+    "aliases": [
+      "dapa m",
+      "oxra m 10 500",
+      "oxra m",
+      "oxra-m 10/500",
+      "forxiga m"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "dapagliflozin_metformin_10_mg_500_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 620.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "sitagliptin-50mg-tab",
+    "brand_name": "Januvia 50",
+    "aliases": [
+      "जानुविया",
+      "zita 50",
+      "januvia 50",
+      "sitaglip 50"
+    ],
+    "manufacturer": "MSD Pharmaceuticals",
+    "composition_id": "sitagliptin_phosphate_50_mg_tablets",
+    "pack_size": 14.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 450.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "sitagliptin-100mg-tab",
+    "brand_name": "Januvia 100",
+    "aliases": [
+      "sitaglip 100",
+      "zita 100",
+      "januvia 100"
+    ],
+    "manufacturer": "MSD Pharmaceuticals",
+    "composition_id": "sitagliptin_phosphate_100_mg_tablets",
+    "pack_size": 14.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 720.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "sitagliptin-metformin-tab",
+    "brand_name": "Janumet 50/500",
+    "aliases": [
+      "जानुमेट",
+      "janumet 50/500",
+      "janumet 50 500",
+      "zita met",
+      "janumet"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "sitagliptin_metformin_50_mg_500_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 620.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "teneligliptin-metformin-tab",
+    "brand_name": "Ziten-M 20/500",
+    "aliases": [
+      "ziten-m 20/500",
+      "dynaglipt m",
+      "ziten m",
+      "ziten m 20 500",
+      "tenalim m"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "teneligliptin_metformin_20_mg_500_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 195.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "voglibose-0-3mg-tab",
+    "brand_name": "Volibo 0.3",
+    "aliases": [
+      "volibo 0 3",
+      "advog 0.3",
+      "volibo 0.3",
+      "vogli 0.3"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "voglibose_0_3_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 110.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "glipizide-5mg-tab",
+    "brand_name": "Glynase 5",
+    "aliases": [
+      "glipid 5",
+      "minidiab 5",
+      "glynase 5"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "glipizide_5_mg_tablets",
+    "pack_size": 20.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 42.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "pioglitazone-15mg-tab",
+    "brand_name": "Pioz 15",
+    "aliases": [
+      "pioglit 15",
+      "actos 15",
+      "pioz 15"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "pioglitazone_hydrochloride_15_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 68.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "pioglitazone-30mg-tab",
+    "brand_name": "Pioz 30",
+    "aliases": [
+      "actos 30",
+      "pioglit 30",
+      "pioz 30"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "pioglitazone_hydrochloride_30_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 115.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "rosuvastatin-5mg-tab",
+    "brand_name": "Rozavel 5",
+    "aliases": [
+      "rozavel 5",
+      "crestor 5",
+      "rosuvas 5"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "rosuvastatin_5_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 98.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "rosuvastatin-aspirin-tab",
+    "brand_name": "Rozavel-A 10",
+    "aliases": [
+      "rozavel a",
+      "rosuvas a",
+      "crestor a",
+      "rozavel a 10",
+      "rozavel-a 10"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "rosuvastatin_aspirin_10_mg_75_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "mrp_inr": 185.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "atorvastatin-fenofibrate-tab",
+    "brand_name": "Atorva-TG 10",
+    "aliases": [
+      "atorva tg",
+      "atorva-tg 10",
+      "atorlip f",
+      "atorva tg 10",
+      "storvas tg"
+    ],
+    "manufacturer": "Zydus Cadila",
+    "composition_id": "atorvastatin_fenofibrate_10_mg_145_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 195.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "ezetimibe-10mg-tab",
+    "brand_name": "Ezentia 10",
+    "aliases": [
+      "zetia 10",
+      "ezentia 10",
+      "ezetimac 10"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "ezetimibe_10_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 165.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "bilastine-20mg-tab",
+    "brand_name": "Bilaxten 20",
+    "aliases": [
+      "bilaxten 20",
+      "bilavel 20",
+      "bilashine 20"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "bilastine_20_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 180.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "deflazacort-6mg-tab",
+    "brand_name": "Defcort 6",
+    "aliases": [
+      "deflaza 6",
+      "cortimax 6",
+      "defcort 6",
+      "डेफकोर्ट"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "deflazacort_6_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 125.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "deflazacort-12mg-tab",
+    "brand_name": "Defcort 12",
+    "aliases": [
+      "defcort 12",
+      "cortimax 12"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "deflazacort_12_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 220.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "dextromethorphan-chlorpheniramine-syp",
+    "brand_name": "Ascoril-D Plus",
+    "aliases": [
+      "ascoril-d plus",
+      "ascoril d plus",
+      "ascoril d",
+      "एस्कोरिल डी",
+      "benadryl dr",
+      "koflet"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "dextromethorphan_chlorpheniramine_10_mg_2_mg_5_ml_ml",
+    "pack_size": 100.0,
+    "pack_unit": "ml",
+    "mrp_inr": 120.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "ambroxol-levosalbutamol-guaifenesin-syp",
+    "brand_name": "Ascoril-LS Syrup",
+    "aliases": [
+      "एस्कोरिल एलएस",
+      "ascoril ls syrup",
+      "mucolite ls",
+      "bro-zedex ls",
+      "ascoril-ls syrup",
+      "ascoril ls"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "ambroxol_levosalbutamol_guaifenesin_30_mg_1_mg_50_mg_5_ml_ml",
+    "pack_size": 100.0,
+    "pack_unit": "ml",
+    "mrp_inr": 135.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "deriphyllin-retard-150-tab",
+    "brand_name": "Deriphyllin Retard 150",
+    "aliases": [
+      "डेरीफाइलिन",
+      "deriphyllin 150",
+      "deriphyllin retard 150",
+      "etophylline theophylline"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "theophylline_etofylline_115_mg_35_mg_tablets",
+    "pack_size": 30.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 38.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "deriphyllin-retard-300-tab",
+    "brand_name": "Deriphyllin Retard 300",
+    "aliases": [
+      "deriphyllin retard 300",
+      "deriphyllin 300"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "theophylline_etofylline_231_mg_69_mg_tablets",
+    "pack_size": 30.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 58.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "seroflo-250-inhaler",
+    "brand_name": "Seroflo 250 Inhaler",
+    "aliases": [
+      "combitide 250",
+      "seroflo 250 inhaler",
+      "seretide 250",
+      "seroflo 250"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "salmeterol_fluticasone_propionate_25_mcg_250_mcg_doses",
+    "pack_size": 120.0,
+    "pack_unit": "doses",
+    "mrp_inr": 650.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "asthalin-inhaler-100mcg",
+    "brand_name": "Asthalin Inhaler",
+    "aliases": [
+      "ventolin inhaler",
+      "asthalin inhaler",
+      "salbutamol inhaler"
+    ],
+    "manufacturer": "Cipla Ltd",
+    "composition_id": "salbutamol_100_mcg_doses",
+    "pack_size": 200.0,
+    "pack_unit": "doses",
+    "mrp_inr": 165.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "budesonide-0-5-respules",
+    "brand_name": "Budecort 0.5 Respules",
+    "aliases": [
+      "budecort 0.5 respules",
+      "budecort 0 5 respules",
+      "pulmicort",
+      "budez respules",
+      "budecort 0.5"
+    ],
+    "manufacturer": "Cipla Ltd",
+    "composition_id": "budesonide_0_5_mg_2_ml_respules",
+    "pack_size": 5.0,
+    "pack_unit": "respules",
+    "mrp_inr": 145.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "carbimazole-5mg-tab",
+    "brand_name": "Neo-Mercazole 5",
+    "aliases": [
+      "neo-mercazole 5",
+      "thyrocab 5",
+      "neo mercazole 5"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "carbimazole_5_mg_tablets",
+    "pack_size": 100.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 120.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "medroxyprogesterone-10mg-tab",
+    "brand_name": "Deviry 10",
+    "aliases": [
+      "deviry 10",
+      "provera 10",
+      "meprate 10"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "medroxyprogesterone_acetate_10_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 85.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "norethisterone-5mg-tab",
+    "brand_name": "Primolut-N",
+    "aliases": [
+      "primolut-n",
+      "primolut n",
+      "crina nrc",
+      "regestrone 5"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "norethisterone_5_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 78.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "vitamin-b-complex-c-cap",
+    "brand_name": "Becosules Capsules",
+    "aliases": [
+      "becozinc",
+      "becosules capsules",
+      "b complex",
+      "becosules",
+      "बीकोस्यूल्स"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "vitamin_b_complex_vitamin_c_b_complex_150_mg_vitamin_c_capsules",
+    "pack_size": 20.0,
+    "pack_unit": "capsules",
+    "mrp_inr": 52.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "multivitamin-multimineral-tab",
+    "brand_name": "Zincovit Tablets",
+    "aliases": [
+      "zincovit",
+      "a to z",
+      "जिंकोविट",
+      "zincovit tablets",
+      "supradyn"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "multivitamins_multiminerals_zinc_multivitamin_22_5_mg_zinc_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 115.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "vitamin-e-400mg-cap",
+    "brand_name": "Evion 400",
+    "aliases": [
+      "इवियन 400",
+      "evion 400",
+      "vitamin e 400",
+      "e-cod 400"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "tocopheryl_acetate_vitamin_e_400_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "mrp_inr": 42.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "amitriptyline-10mg-tab",
+    "brand_name": "Tryptomer 10",
+    "aliases": [
+      "tryptomer 10",
+      "eliwel 10",
+      "amitryn 10"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "amitriptyline_hydrochloride_10_mg_tablets",
+    "pack_size": 30.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 35.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "amitriptyline-25mg-tab",
+    "brand_name": "Tryptomer 25",
+    "aliases": [
+      "tryptomer 25",
+      "amitryn 25",
+      "eliwel 25"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "amitriptyline_hydrochloride_25_mg_tablets",
+    "pack_size": 30.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 58.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "paroxetine-12-5mg-cr-tab",
+    "brand_name": "Pexep 12.5 CR",
+    "aliases": [
+      "pexep 12.5",
+      "pexep 12 5 cr",
+      "paxidep 12.5",
+      "panex cr 12.5",
+      "pexep 12.5 cr"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "paroxetine_controlled_release_12_5_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 165.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "duloxetine-20mg-cap",
+    "brand_name": "Duzela 20",
+    "aliases": [
+      "duzela 20",
+      "symbal 20",
+      "dulane 20"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "duloxetine_hydrochloride_20_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "mrp_inr": 145.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "sodium-valproate-200mg-tab",
+    "brand_name": "Encorate 200",
+    "aliases": [
+      "depakote 200",
+      "encorate 200",
+      "valparin 200"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "sodium_valproate_200_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 62.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "sodium-valproate-500mg-cr-tab",
+    "brand_name": "Encorate Chrono 500",
+    "aliases": [
+      "encorate chrono 500",
+      "valparin chrono 500",
+      "epival 500"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "sodium_valproate_valproic_acid_500_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 185.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "levetiracetam-500mg-tab",
+    "brand_name": "Levipil 500",
+    "aliases": [
+      "levipil 500",
+      "keppra 500",
+      "levepsy 500"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "levetiracetam_500_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 165.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "phenytoin-100mg-tab",
+    "brand_name": "Eptoin 100",
+    "aliases": [
+      "eptoin 100",
+      "एप्सोइन",
+      "dilantin 100"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "phenytoin_sodium_100_mg_tablets",
+    "pack_size": 120.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 180.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "baclofen-10mg-tab",
+    "brand_name": "Lioresal 10",
+    "aliases": [
+      "lioresal 10",
+      "baclof 10",
+      "spinax 10"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "baclofen_10_mg_tablets",
+    "pack_size": 10.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 125.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "luliconazole-1-cream",
+    "brand_name": "Lulifin 1% Cream",
+    "aliases": [
+      "lulifin",
+      "lulican",
+      "luly 1%",
+      "lulifin 1 cream",
+      "lulifin 1% cream"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "luliconazole_1_w_w_gm",
+    "pack_size": 30.0,
+    "pack_unit": "gm",
+    "mrp_inr": 245.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "clobetasol-0-05-cream",
+    "brand_name": "Tenovate Cream",
+    "aliases": [
+      "tenovate",
+      "clop g",
+      "dermovate",
+      "tenovate cream"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "clobetasol_propionate_0_05_w_w_gm",
+    "pack_size": 30.0,
+    "pack_unit": "gm",
+    "mrp_inr": 85.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "fusidic-acid-2-cream",
+    "brand_name": "Fucidin 2% Cream",
+    "aliases": [
+      "fucidin 2% cream",
+      "fucidin 2 cream",
+      "fucidin",
+      "fusiderm",
+      "fucibet"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "fusidic_acid_2_w_w_gm",
+    "pack_size": 15.0,
+    "pack_unit": "gm",
+    "mrp_inr": 135.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "ketoconazole-2-shampoo",
+    "brand_name": "Nizral 2% Shampoo",
+    "aliases": [
+      "nizral 2% shampoo",
+      "danfree",
+      "nizral 2 shampoo",
+      "scalpe plus",
+      "nizral"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "ketoconazole_2_w_v_ml",
+    "pack_size": 100.0,
+    "pack_unit": "ml",
+    "mrp_inr": 295.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "povidone-iodine-10-sol",
+    "brand_name": "Betadine 10% Solution",
+    "aliases": [
+      "cipladine",
+      "betadine 10 solution",
+      "betadine",
+      "poviz",
+      "betadine 10% solution"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "povidone_iodine_10_w_v_ml",
+    "pack_size": 100.0,
+    "pack_unit": "ml",
+    "mrp_inr": 140.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "xylometazoline-0-1-nasal",
+    "brand_name": "Otrivin Adult Drops",
+    "aliases": [
+      "decongestant drops",
+      "otrivin adult drops",
+      "otrivin",
+      "nasivion"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "xylometazoline_hydrochloride_0_1_w_v_ml",
+    "pack_size": 10.0,
+    "pack_unit": "ml",
+    "mrp_inr": 72.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "olopatadine-0-1-eyedrop",
+    "brand_name": "Pataday 0.1% Eye Drops",
+    "aliases": [
+      "winolap",
+      "olopat",
+      "pataday 0.1% eye drops",
+      "pataday",
+      "pataday 0 1 eye drops"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "olopatadine_hydrochloride_0_1_w_v_ml",
+    "pack_size": 5.0,
+    "pack_unit": "ml",
+    "mrp_inr": 165.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "silodosin-8mg-cap",
+    "brand_name": "Silodal 8",
+    "aliases": [
+      "silodal 8",
+      "silofast 8",
+      "rapaflo 8"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "silodosin_8_mg_capsules",
+    "pack_size": 10.0,
+    "pack_unit": "capsules",
+    "mrp_inr": 340.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "dutasteride-0-5mg-cap",
+    "brand_name": "Dutas 0.5",
+    "aliases": [
+      "dutagen",
+      "avodart",
+      "dutas",
+      "dutas 0.5",
+      "dutas 0 5"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "dutasteride_0_5_mg_capsules",
+    "pack_size": 15.0,
+    "pack_unit": "capsules",
+    "mrp_inr": 195.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "tadalafil-10mg-tab",
+    "brand_name": "Megalis 10",
+    "aliases": [
+      "megalis 10",
+      "forzest 10",
+      "cialis 10"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "tadalafil_10_mg_tablets",
+    "pack_size": 4.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 180.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "sildenafil-50mg-tab",
+    "brand_name": "Manforce 50",
+    "aliases": [
+      "penegra 50",
+      "manforce 50",
+      "viagra 50"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "sildenafil_citrate_50_mg_tablets",
+    "pack_size": 4.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 140.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "prednisolone-5mg-tab",
+    "brand_name": "Wysolone 5",
+    "aliases": [
+      "omnacortil 5",
+      "wysolone 5",
+      "प्रेडनिसोलोन"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "prednisolone_5_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 14.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "prednisolone-10mg-tab",
+    "brand_name": "Wysolone 10",
+    "aliases": [
+      "wysolone 10",
+      "omnacortil 10",
+      "predone 10"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "prednisolone_10_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 24.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "prednisolone-20mg-tab",
+    "brand_name": "Wysolone 20",
+    "aliases": [
+      "predone 20",
+      "omnacortil 20",
+      "wysolone 20"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "prednisolone_20_mg_tablets",
+    "pack_size": 15.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 42.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "dexamethasone-0-5mg-tab",
+    "brand_name": "Dexona 0.5",
+    "aliases": [
+      "dexona 0.5",
+      "dexona",
+      "dexona 0 5",
+      "डेक्सोना",
+      "decadron 0.5"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "dexamethasone_0_5_mg_tablets",
+    "pack_size": 30.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 8.5,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "methylprednisolone-4mg-tab",
+    "brand_name": "Medrol 4",
+    "aliases": [
+      "macpred 4",
+      "medrol 4",
+      "zempred 4"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "methylprednisolone_4_mg_tablets",
+    "pack_size": 14.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 78.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  },
+  {
+    "brand_id": "methylprednisolone-8mg-tab",
+    "brand_name": "Medrol 8",
+    "aliases": [
+      "zempred 8",
+      "macpred 8",
+      "medrol 8"
+    ],
+    "manufacturer": "Standard Indian Pharma (CDSCO / WHO-GMP)",
+    "composition_id": "methylprednisolone_8_mg_tablets",
+    "pack_size": 14.0,
+    "pack_unit": "tablets",
+    "mrp_inr": 135.0,
+    "mrp_source": "PMBJP Price List 2024 / NPPA",
+    "price_date": "2026-10-01"
+  }
+]

@@ -45,6 +45,7 @@ export type SessionAction =
   | { type: "start" }
   | { type: "reset" }
   | { type: "addLine"; line: RxLine }
+  | { type: "setLines"; lines: RxLine[] }
   | { type: "replaceLine"; line: RxLine }
   | { type: "removeLine"; key: string }
   | { type: "confirmLine"; key: string; selectedId: string }
@@ -64,6 +65,8 @@ export function sessionReducer(state: SessionState, action: SessionAction): Sess
       return initialSession;
     case "addLine":
       return { ...state, started: true, lines: [...state.lines, action.line] };
+    case "setLines":
+      return { ...state, started: true, lines: action.lines };
     case "replaceLine":
       return {
         ...state,

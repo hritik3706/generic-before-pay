@@ -1,5 +1,7 @@
 import type { DisplayRecord } from "@/lib/data/types";
 import { matchQuery } from "@/lib/matching/match";
+import { medicineNamesFromPrintedText } from "@/lib/ocr/candidates";
+import { catalogNamesInText } from "@/lib/ocr/printed";
 import type { RxLine } from "@/lib/session/reducer";
 
 let sequence = 0;

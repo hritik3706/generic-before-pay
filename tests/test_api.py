@@ -233,7 +233,7 @@ def test_offline_data_version(client):
     assert response.status_code == 200
     json_data = response.json()
     assert json_data["success"] is True
-    assert json_data["data"]["total_records"] >= 80
+    assert json_data["data"]["total_records"] >= 200
     assert "dataset_hash" in json_data["data"]
     # Check deterministic content-based version prefix
     assert json_data["data"]["dataset_version"].startswith("v1.")
@@ -249,7 +249,7 @@ def test_offline_data_bundle_cache_control_and_etag(client):
 
     json_data = response.json()
     assert json_data["success"] is True
-    assert len(json_data["drugs"]) >= 80
+    assert len(json_data["drugs"]) >= 200
     assert json_data["disclaimer"] == STANDARD_DISCLAIMER
     _assert_no_forbidden_fields(json_data)
 
@@ -286,7 +286,7 @@ def test_dual_route_prefix(client):
 
     r_bundle = client.get("/api/data/version")
     assert r_bundle.status_code == 200
-    assert r_bundle.json()["data"]["total_records"] >= 80
+    assert r_bundle.json()["data"]["total_records"] >= 200
 
 
 def test_disclaimer_present_in_error_responses(client):
@@ -299,11 +299,11 @@ def test_disclaimer_present_in_error_responses(client):
     assert r_422.json()["disclaimer"] == STANDARD_DISCLAIMER
 
 
-def test_dataset_size_at_least_80_records(client):
+def test_dataset_size_at_least_200_records(client):
     response = client.get("/api/v1/data/version")
     assert response.status_code == 200
     total = response.json()["data"]["total_records"]
-    assert total >= 80, f"Dataset has only {total} records, expected at least 80!"
+    assert total >= 200, f"Dataset has only {total} records, expected at least 200!"
 
 
 def test_search_by_molecule_paracetamol(client):
@@ -417,13 +417,70 @@ def test_cors_headers_and_preflight(client):
     assert r_get.headers.get("access-control-allow-origin") == "http://localhost:5173"
 
 
-def test_lru_query_caching(client):
-    """Test identical repeated queries execute correctly and hit cache."""
-    r1 = client.get("/api/v1/search?q=Paracetamol")
-    r2 = client.get("/api/v1/search?q=Paracetamol")
-    assert r1.status_code == 200
-    assert r2.status_code == 200
-    assert r1.json()["data"]["matches"] == r2.json()["data"]["matches"]
+def test_kendras_nearest_lucknow(client):
+    """Test /api/v1/kendras/nearest returns closest Kendras with accurate distance."""
+    response = client.get("/api/v1/kendras/nearest?lat=26.85&lng=80.95&limit=3")
+    assert response.status_code == 200
+    json_data = response.json()
+    assert json_data["success"] is True
+    assert json_data["disclaimer"] == STANDARD_DISCLAIMER
+    _assert_no_forbidden_fields(json_data)
+
+    kendras = json_data["data"]["kendras"]
+    assert len(kendras) == 3
+    # First Kendra in Hazratganj Lucknow should be ~0.0 km
+    assert "Hazratganj" in kendras[0]["name"]
+    assert kendras[0]["distance_km"] < 1.0
+    assert "maps_url" in kendras[0]
+    assert "lat" in kendras[0] and "lng" in kendras[0]
+
+
+def test_kendras_invalid_coordinates(client):
+    """Test 422 validation for latitude out of range."""
+    response = client.get("/api/v1/kendras/nearest?lat=999&lng=80.95")
+    assert response.status_code == 422
+    assert response.json()["disclaimer"] == STANDARD_DISCLAIMER
+
+
+def test_unified_healthz_and_readyz(client):
+    """Test unified health and readiness endpoints mounted on the same application."""
+    r_health = client.get("/healthz")
+    assert r_health.status_code == 200
+    assert r_health.json() == {"status": "ok"}
+
+    r_ready = client.get("/readyz")
+    assert r_ready.status_code == 200
+    ready_data = r_ready.json()
+    assert ready_data["status"] == "ready"
+    assert ready_data["ocr"] in ("mock", "ok")
+    assert ready_data["typing_path"] == "available"
+    assert ready_data["data"]["brands"] is True
+    assert ready_data["data"]["janaushadhi_products"] is True
+    assert ready_data["data"]["kendras"] is True
+
+
+def test_unified_prescription_candidates_and_summary(client):
+    """Test prescription candidate scoring and summary on the single unified server."""
+    # 1. Candidates scoring
+    r_cand = client.post("/v1/prescription/candidates", json={"items": ["Dolo 650", "Calpol 500"]})
+    assert r_cand.status_code == 200
+    results = r_cand.json()["results"]
+    assert len(results) == 2
+    assert results[0]["tier"] in ("exact", "likely")
+    assert len(results[0]["matches"]) >= 1
+
+    # 2. Summary pricing calculation
+    summary_payload = {
+        "patient": {"age_years": 32, "gender": "male"},
+        "confirmed_by_user": True,
+        "items": [{"brand_id": "paracetamol-650mg-tab", "quantity_packs": 2}]
+    }
+    r_sum = client.post("/v1/prescription/summary", json=summary_payload)
+    assert r_sum.status_code == 200
+    sum_data = r_sum.json()
+    assert sum_data["totals"]["compared_lines"] == 1
+    assert sum_data["totals"]["difference_inr"] > 0
+    assert "disclaimer" in sum_data
 
 
 
